@@ -1,17 +1,17 @@
 # ⚽ Timestamped Football Odds incl. Pinnacle — 90 Competitions Worldwide: 5 Packs in One (free sample)
 
-**Timestamped Soccer World All-in-One Premium — free sample: 20 matches out of 197,640, from 17 of the 90 competitions.**
+**Timestamped Soccer World All-in-One Premium — free sample: 20 matches out of 197,615, from 17 of the 90 competitions.**
 Same tables, same columns, same formats as the full product, one file per competition of the sample.
 
 Most football odds datasets give you one closing number per match. The full product gives you
-**353,585,271 timestamped quotes** from 5 named bookmakers, pre-match and in-play, with the score
+**353,573,942 timestamped quotes** from 5 named bookmakers, pre-match and in-play, with the score
 and the match clock the bookmaker sent on its in-play quotes, plus the opening and the closing of every book and
-market with the exact time each was recorded, and 10,836,147 dated snapshots from 37 more bookmakers.
+market with the exact time each was recorded, and 10,835,875 dated snapshots from 37 more bookmakers.
 
 **90 competitions, one schema:** the top flights of 66 countries, the second divisions of England, Spain, Italy, Germany, France and Portugal, and
 18 international competitions for clubs and national teams, from the Champions League and the Copa Libertadores to the World Cup.
 
-⚽ **[→ Get the full dataset on Gumroad](https://sportsdataolivier.gumroad.com/l/ylkgqx?utm_source=github&utm_medium=repo&utm_campaign=all_in_one_premium&utm_content=readme_top)** — 197,640 matches, 90 competitions, 898 competition-seasons, 2016–2026.
+⚽ **[→ Get the full dataset on Gumroad](https://sportsdataolivier.gumroad.com/l/ylkgqx?utm_source=github&utm_medium=repo&utm_campaign=all_in_one_premium&utm_content=readme_top)** — 197,615 matches, 90 competitions, 898 competition-seasons, 2016–2026.
 
 ---
 
@@ -31,7 +31,7 @@ Also on [Hugging Face](https://huggingface.co/datasets/oliviersportsdata/World-F
 | Pack (also sold on its own) | Competitions | Matches | Timestamped quotes | Period |
 |---|---:|---:|---:|---|
 | [Big 6 Europe Premium](https://sportsdataolivier.gumroad.com/l/uooqdc?utm_source=github&utm_medium=repo&utm_campaign=all_in_one_premium&utm_content=pack_table) — England, Spain, Italy, Germany, France, Portugal, 2 divisions each | 12 | 45,554 | 87,379,474 | 2016-08-28 to 2026-09-28 |
-| [Other European Leagues Premium](https://sportsdataolivier.gumroad.com/l/aplpqd?utm_source=github&utm_medium=repo&utm_campaign=all_in_one_premium&utm_content=pack_table) — 44 top flights of Europe | 44 | 92,640 | 132,127,449 | 2016-08-28 to 2026-09-29 |
+| [Other European Leagues Premium](https://sportsdataolivier.gumroad.com/l/aplpqd?utm_source=github&utm_medium=repo&utm_campaign=all_in_one_premium&utm_content=pack_table) — 44 top flights of Europe | 44 | 92,615 | 132,116,120 | 2016-08-28 to 2026-09-29 |
 | [International Football Premium](https://sportsdataolivier.gumroad.com/l/hethzg?utm_source=github&utm_medium=repo&utm_campaign=all_in_one_premium&utm_content=pack_table) — Champions League to World Cup, 18 competitions | 18 | 11,118 | 28,943,376 | 2016-08-31 to 2026-09-29 |
 | [Futbol, Futebol & Soccer Premium](https://sportsdataolivier.gumroad.com/l/diswpw?utm_source=github&utm_medium=repo&utm_campaign=all_in_one_premium&utm_content=pack_table) — 9 top flights of the Americas | 9 | 30,999 | 73,680,541 | 2016-08-28 to 2026-09-30 |
 | [Timestamped Soccer Asia & Africa Premium](https://sportsdataolivier.gumroad.com/l/gxvqou?utm_source=github&utm_medium=repo&utm_campaign=all_in_one_premium&utm_content=pack_table) — 7 top flights of Asia and Africa | 7 | 17,329 | 31,454,431 | 2016-08-28 to 2026-09-27 |
@@ -45,14 +45,14 @@ across all of them.
 
 | Table | Sample | Full product |
 |---|---:|---:|
-| Odds_Timestamped | 55,392 | 353,585,271 |
-| Minute_Stats | 11,144 | 49,498,033 |
-| Bookmaker_Snapshots | 1,554 | 10,836,147 |
-| Lineups | 834 | 5,478,309 |
-| Events | 1,165 | 5,220,540 |
-| Team_Stats | 40 | 395,280 |
-| Opening_Closing | 20 | 197,640 |
-| Matches | 20 | 197,640 |
+| Odds_Timestamped | 55,392 | 353,573,942 |
+| Minute_Stats | 11,144 | 49,494,435 |
+| Bookmaker_Snapshots | 1,554 | 10,835,875 |
+| Lineups | 834 | 5,478,267 |
+| Events | 1,165 | 5,220,292 |
+| Team_Stats | 40 | 395,230 |
+| Opening_Closing | 20 | 197,615 |
+| Matches | 20 | 197,615 |
 
 The 20 matches: two finals that went to penalties (the 2022 World Cup and the 2026 Champions League, the latter
 shown quote by quote below), the EURO 2024, Copa Libertadores 2025, Club World Cup 2025 and MLS Cup 2025 finals, Saudi
@@ -96,13 +96,13 @@ Coverage is not uniform. Here is what each book actually priced.
 
 | Book | Quotes | Matches with an FT 1X2 close | First FT 1X2 close | Closing prices on |
 |---|---:|---:|---|---|
-| Bet365 | 250,616,877 | 191,164 (96.7 %) | 2016-08-28 | all 8 markets |
-| Pinnacle | 17,177,148 | 145,008 (73.4 %) | 2018-09-27 | 1X2, total goals; Asian handicap from Jun 2023 |
-| Unibet | 23,263,512 | 166,828 (84.4 %) | 2017-04-15 | 1X2, total goals |
+| Bet365 | 250,606,072 | 191,146 (96.7 %) | 2016-08-28 | all 8 markets |
+| Pinnacle | 17,177,038 | 145,004 (73.4 %) | 2018-09-27 | 1X2, total goals; Asian handicap from Jun 2023 |
+| Unibet | 23,263,098 | 166,824 (84.4 %) | 2017-04-15 | 1X2, total goals |
 | Betfair (Sportsbook) | 54,134,487 | 37,412 (18.9 %) | 2023-11-03 | 1X2 |
 | Betsson | 8,393,247 | 73,034 (37.0 %) | 2022-07-03 | 1X2, total goals |
 
-Split: **263,926,704 in-play** (74.6 %) · **89,658,567 pre-match** (25.4 %).
+Split: **263,916,151 in-play** (74.6 %) · **89,657,791 pre-match** (25.4 %).
 
 Markets: full-time 1X2, Asian handicap, total goals and total corners, and the same four for the
 first half. Bookmakers are always named, never aggregated. The 37 other bookmakers are in
@@ -227,3 +227,4 @@ A question before buying: contact@oliviersportsdata.com
 
 *Olivier Sports Data — From Chicken Area 🐔*
 Hand-built historical sports market data.
+[README.md](https://github.com/user-attachments/files/33925999/README.md)
