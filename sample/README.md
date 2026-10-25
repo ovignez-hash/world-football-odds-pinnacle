@@ -25,7 +25,7 @@ This sample holds the full product's tables limited to 20 matches of 17 of the 9
 | 10891062 | KSA | 2025/26 | Regular Season | 2026-05-12 | Al-Nassr Riyadh - Al Hilal Riyadh | 1-1 |
 | 11815078 | MAR | 2025/26 | Regular Season | 2026-05-09 | Raja Casablanca - WAC Casablanca | 0-1 |
 
-Full product (all 197,640 matches): **[→ Get the full dataset on Gumroad](https://sportsdataolivier.gumroad.com/l/ylkgqx?utm_source=sample_readme&utm_medium=readme&utm_campaign=all_in_one_premium&utm_content=sample_readme)**
+Full product (all 197,615 matches): **[→ Get the full dataset on Gumroad](https://sportsdataolivier.gumroad.com/l/ylkgqx?utm_source=sample_readme&utm_medium=readme&utm_campaign=all_in_one_premium&utm_content=sample_readme)**
 
 Questions: contact@oliviersportsdata.com
 
@@ -33,7 +33,7 @@ Questions: contact@oliviersportsdata.com
 
 # Timestamped Soccer World All-in-One Premium - 90 Competitions Worldwide: Odds, In-Play Ticks & Full Match Layer (2016-2026)
 
-197,640 finished matches from 90 competitions in Europe, the Americas, Asia and Africa, 2016-08-28 to 2026-09-30: the
+197,615 finished matches from 90 competitions in Europe, the Americas, Asia and Africa, 2016-08-28 to 2026-09-30: the
 top division of 66 countries' leagues (and the second division of England, Spain, Italy, Germany, France and
 Portugal), plus 18 international competitions for clubs and national teams, from the Champions
 League to the World Cup. Every recorded price update from 5 named bookmakers, pre-match and in-play, with the score
@@ -51,41 +51,41 @@ seasons, stages and expected matches, checked match by match, and the five are m
 | Pack (also sold on its own) | Competitions | Matches | Timestamped quotes | Snapshots | Period |
 |---|---|---|---|---|---|
 | Big 6 Europe Premium | 12 | 45,554 | 87,379,474 | 2,743,432 | 2016-08-28 to 2026-09-28 |
-| Other European Leagues Premium | 44 | 92,640 | 132,127,449 | 4,705,326 | 2016-08-28 to 2026-09-29 |
+| Other European Leagues Premium | 44 | 92,615 | 132,116,120 | 4,705,054 | 2016-08-28 to 2026-09-29 |
 | International Football Premium | 18 | 11,118 | 28,943,376 | 661,507 | 2016-08-31 to 2026-09-29 |
 | Futbol, Futebol & Soccer Premium | 9 | 30,999 | 73,680,541 | 1,781,722 | 2016-08-28 to 2026-09-30 |
 | Timestamped Soccer Asia & Africa Premium | 7 | 17,329 | 31,454,431 | 944,160 | 2016-08-28 to 2026-09-27 |
-| **Total** | **90** | **197,640** | **353,585,271** | **10,836,147** | 2016-08-28 to 2026-09-30 |
+| **Total** | **90** | **197,615** | **353,573,942** | **10,835,875** | 2016-08-28 to 2026-09-30 |
 
 ## At a glance
 
 |  |  |
 |---|---|
-| Matches | 197,640 |
+| Matches | 197,615 |
 | Competitions | 90: 72 domestic leagues in 66 countries (6 of them second divisions), 18 international competitions |
 | Seasons and editions | 898 competition-seasons |
 | Period | 2016-08-28 to 2026-09-30 (data up to 2026-09-30) |
 | Bookmakers (full history) | Bet365, Pinnacle, Unibet, Betfair (Sportsbook), Betsson - always named, never aggregated |
 | Markets | FT 1X2, FT Asian handicap, FT total goals, FT total corners, HT 1X2, HT Asian handicap, HT total goals, HT total corners |
-| Timestamped price updates | 353,585,271 |
-| Other bookmakers' snapshots | 10,836,147 (37 bookmakers) |
-| Events | 5,220,540 |
-| Lineup rows | 5,478,309 |
-| Minute-by-minute statistics | 49,498,033 |
+| Timestamped price updates | 353,573,942 |
+| Other bookmakers' snapshots | 10,835,875 (37 bookmakers) |
+| Events | 5,220,292 |
+| Lineup rows | 5,478,267 |
+| Minute-by-minute statistics | 49,494,435 |
 
 ## Files
 
 | File | Rows | One row per | Format |
 |---|---|---|---|
-| Ultimate_Matches.csv / .xlsx | 197,640 | match | CSV + XLSX |
-| Ultimate_Opening_Closing_Odds.csv / .xlsx | 197,640 | match (opening and closing price + time, per bookmaker and market) | CSV + XLSX |
-| Ultimate_Team_Stats.csv / .xlsx | 395,280 | match x team | CSV + XLSX |
+| Ultimate_Matches.csv / .xlsx | 197,615 | match | CSV + XLSX |
+| Ultimate_Opening_Closing_Odds.csv / .xlsx | 197,615 | match (opening and closing price + time, per bookmaker and market) | CSV + XLSX |
+| Ultimate_Team_Stats.csv / .xlsx | 395,230 | match x team | CSV + XLSX |
 | Ultimate_Coverage.csv / .xlsx | 898 | competition x season (coverage in %) | CSV + XLSX |
-| odds_timestamped/Ultimate_Odds_Timestamped_<CODE>.csv.gz | 353,585,271 | price update (bookmaker x market x time) | 90 gzip CSV |
-| bookmaker_snapshots/Ultimate_Bookmaker_Snapshots_<CODE>.csv.gz | 10,836,147 | snapshot of another bookmaker (match x book x market x snapshot) | 90 gzip CSV |
-| events/Ultimate_Events_<CODE>.csv.gz | 5,220,540 | match event | 90 gzip CSV |
-| lineups/Ultimate_Lineups_<CODE>.csv.gz | 5,478,309 | player in a match squad | 90 gzip CSV |
-| minute_stats/Ultimate_Minute_Stats_<CODE>.csv.gz | 49,498,033 | statistic x team x minute | 90 gzip CSV |
+| odds_timestamped/Ultimate_Odds_Timestamped_<CODE>.csv.gz | 353,573,942 | price update (bookmaker x market x time) | 90 gzip CSV |
+| bookmaker_snapshots/Ultimate_Bookmaker_Snapshots_<CODE>.csv.gz | 10,835,875 | snapshot of another bookmaker (match x book x market x snapshot) | 90 gzip CSV |
+| events/Ultimate_Events_<CODE>.csv.gz | 5,220,292 | match event | 90 gzip CSV |
+| lineups/Ultimate_Lineups_<CODE>.csv.gz | 5,478,267 | player in a match squad | 90 gzip CSV |
+| minute_stats/Ultimate_Minute_Stats_<CODE>.csv.gz | 49,494,435 | statistic x team x minute | 90 gzip CSV |
 
 Load in pandas: `pd.read_csv("Ultimate_Matches.csv", dtype={"Season": str, "Match_ID": str})` and
 `pd.read_csv("events/Ultimate_Events_ENG_PL.csv.gz")` (gzip is read directly). Comma-separated, UTF-8 with BOM,
@@ -108,12 +108,12 @@ One gzip file per competition: load only the competitions you need.
 | FRA_L2 | Big 6 Europe | France | Ligue 2 | 3,585 | 2016/17 to 2026/27 (11) | 76 % | 72 % | 100 % | 100 % |
 | POR_PL | Big 6 Europe | Portugal | Primeira Liga | 3,112 | 2016/17 to 2026/27 (11) | 100 % | 75 % | 99 % | 100 % |
 | POR_SL | Big 6 Europe | Portugal | Liga Portugal 2 | 3,223 | 2016/17 to 2026/27 (11) | 99 % | 70 % | 99 % | 100 % |
-| ALB | Other European Leagues | Albania | Kategoria Superiore | 1,653 | 2017/18 to 2026/27 (10) | 0 % | 60 % | 72 % | 74 % |
-| ARM | Other European Leagues | Armenia | Armenian Premier League | 1,400 | 2016/17 to 2026/27 (11) | 0 % | 62 % | 82 % | 92 % |
+| ALB | Other European Leagues | Albania | Kategoria Superiore | 1,649 | 2017/18 to 2026/27 (10) | 0 % | 60 % | 72 % | 74 % |
+| ARM | Other European Leagues | Armenia | Armenian Premier League | 1,399 | 2016/17 to 2026/27 (11) | 0 % | 62 % | 82 % | 92 % |
 | AUT | Other European Leagues | Austria | Austrian Bundesliga | 1,934 | 2016/17 to 2026/27 (11) | 100 % | 75 % | 100 % | 100 % |
-| AZE | Other European Leagues | Azerbaijan | Azerbaijan Premier League | 1,399 | 2016/17 to 2026/27 (11) | 0 % | 78 % | 97 % | 98 % |
+| AZE | Other European Leagues | Azerbaijan | Azerbaijan Premier League | 1,398 | 2016/17 to 2026/27 (11) | 0 % | 78 % | 97 % | 98 % |
 | BEL | Other European Leagues | Belgium | Belgian Pro League | 2,982 | 2016/17 to 2026/27 (11) | 100 % | 77 % | 99 % | 100 % |
-| BIH | Other European Leagues | Bosnia & Herzegovina | Premier League of Bosnia and Herzegovina | 1,881 | 2016/17 to 2026/27 (11) | 0 % | 72 % | 95 % | 98 % |
+| BIH | Other European Leagues | Bosnia & Herzegovina | Premier League of Bosnia and Herzegovina | 1,876 | 2016/17 to 2026/27 (11) | 0 % | 72 % | 95 % | 98 % |
 | BLR | Other European Leagues | Belarus | Belarusian Premier League | 2,354 | 2016 to 2026 (11) | 7 % | 29 % | 53 % | 53 % |
 | BUL | Other European Leagues | Bulgaria | Bulgarian First League | 2,594 | 2016/17 to 2026/27 (11) | 100 % | 74 % | 99 % | 99 % |
 | CRO | Other European Leagues | Croatia | Croatian First Football League | 1,814 | 2016/17 to 2026/27 (11) | 83 % | 74 % | 100 % | 100 % |
@@ -122,15 +122,15 @@ One gzip file per competition: load only the competitions you need.
 | DEN | Other European Leagues | Denmark | Danish Superliga | 2,172 | 2016/17 to 2026/27 (11) | 100 % | 69 % | 100 % | 100 % |
 | EST | Other European Leagues | Estonia | Meistriliiga | 1,755 | 2016 to 2026 (11) | 11 % | 72 % | 99 % | 99 % |
 | FIN | Other European Leagues | Finland | Veikkausliiga | 1,759 | 2016 to 2026 (11) | 100 % | 70 % | 99 % | 100 % |
-| FRO | Other European Leagues | Faroe Islands | Faroe Islands Premier League | 1,275 | 2017 to 2026 (10) | 8 % | 63 % | 73 % | 75 % |
-| GEO | Other European Leagues | Georgia | Erovnuli Liga | 1,736 | 2016 to 2026 (11) | 0 % | 70 % | 93 % | 89 % |
+| FRO | Other European Leagues | Faroe Islands | Faroe Islands Premier League | 1,274 | 2017 to 2026 (10) | 8 % | 63 % | 73 % | 75 % |
+| GEO | Other European Leagues | Georgia | Erovnuli Liga | 1,735 | 2016 to 2026 (11) | 0 % | 70 % | 93 % | 89 % |
 | GRE | Other European Leagues | Greece | Super League Greece | 2,434 | 2016/17 to 2026/27 (11) | 100 % | 74 % | 99 % | 100 % |
-| HUN | Other European Leagues | Hungary | Nemzeti Bajnoksag I | 1,985 | 2016/17 to 2026/27 (11) | 9 % | 76 % | 99 % | 100 % |
-| IRL | Other European Leagues | Ireland | League of Ireland Premier Division | 1,769 | 2016 to 2026 (11) | 10 % | 69 % | 99 % | 99 % |
+| HUN | Other European Leagues | Hungary | Nemzeti Bajnoksag I | 1,984 | 2016/17 to 2026/27 (11) | 9 % | 76 % | 99 % | 100 % |
+| IRL | Other European Leagues | Ireland | League of Ireland Premier Division | 1,768 | 2016 to 2026 (11) | 10 % | 69 % | 99 % | 99 % |
 | ISL | Other European Leagues | Iceland | Urvalsdeild karla | 1,459 | 2016 to 2026 (11) | 9 % | 74 % | 99 % | 100 % |
 | ISR | Other European Leagues | Israel | Israeli Premier League | 2,416 | 2016/17 to 2026/27 (11) | 0 % | 75 % | 99 % | 100 % |
 | KAZ | Other European Leagues | Kazakhstan | Kazakhstan Premier League | 1,839 | 2016 to 2026 (11) | 0 % | 68 % | 97 % | 98 % |
-| LTU | Other European Leagues | Lithuania | A Lyga | 1,520 | 2016 to 2026 (11) | 12 % | 77 % | 98 % | 98 % |
+| LTU | Other European Leagues | Lithuania | A Lyga | 1,519 | 2016 to 2026 (11) | 12 % | 77 % | 98 % | 98 % |
 | LUX | Other European Leagues | Luxembourg | Luxembourg National Division | 2,159 | 2016/17 to 2026/27 (11) | 0 % | 49 % | 55 % | 57 % |
 | LVA | Other European Leagues | Latvia | Latvian Higher League | 1,492 | 2016 to 2026 (11) | 0 % | 75 % | 98 % | 99 % |
 | MDA | Other European Leagues | Moldova | Moldovan Super Liga | 1,149 | 2016/17 to 2026/27 (11) | 0 % | 54 % | 71 % | 77 % |
@@ -140,17 +140,17 @@ One gzip file per competition: load only the competitions you need.
 | NED | Other European Leagues | Netherlands | Eredivisie | 3,100 | 2016/17 to 2026/27 (11) | 100 % | 74 % | 99 % | 100 % |
 | NIR | Other European Leagues | Northern Ireland | NIFL Premiership | 2,271 | 2016/17 to 2026/27 (11) | 0 % | 69 % | 91 % | 100 % |
 | NOR | Other European Leagues | Norway | Eliteserien | 2,415 | 2016 to 2026 (11) | 100 % | 74 % | 100 % | 100 % |
-| POL | Other European Leagues | Poland | Ekstraklasa | 2,977 | 2016/17 to 2026/27 (11) | 100 % | 74 % | 99 % | 100 % |
+| POL | Other European Leagues | Poland | Ekstraklasa | 2,976 | 2016/17 to 2026/27 (11) | 100 % | 74 % | 99 % | 100 % |
 | ROU | Other European Leagues | Romania | Liga I | 3,035 | 2016/17 to 2026/27 (11) | 100 % | 77 % | 99 % | 99 % |
-| RUS | Other European Leagues | Russia | Russian Premier League | 2,459 | 2016/17 to 2026/27 (11) | 100 % | 29 % | 53 % | 54 % |
-| SCO | Other European Leagues | Scotland | Scottish Premiership | 2,305 | 2016/17 to 2026/27 (11) | 39 % | 74 % | 99 % | 100 % |
+| RUS | Other European Leagues | Russia | Russian Premier League | 2,458 | 2016/17 to 2026/27 (11) | 100 % | 29 % | 53 % | 54 % |
+| SCO | Other European Leagues | Scotland | Scottish Premiership | 2,304 | 2016/17 to 2026/27 (11) | 39 % | 74 % | 99 % | 100 % |
 | SRB | Other European Leagues | Serbia | Serbian SuperLiga | 3,019 | 2016/17 to 2026/27 (11) | 28 % | 74 % | 98 % | 100 % |
 | SUI | Other European Leagues | Switzerland | Swiss Super League | 1,970 | 2016/17 to 2026/27 (11) | 100 % | 76 % | 100 % | 100 % |
 | SVK | Other European Leagues | Slovakia | Slovak First League | 1,926 | 2016/17 to 2026/27 (11) | 100 % | 74 % | 99 % | 100 % |
-| SVN | Other European Leagues | Slovenia | Slovenian PrvaLiga | 1,812 | 2016/17 to 2026/27 (11) | 100 % | 74 % | 99 % | 100 % |
+| SVN | Other European Leagues | Slovenia | Slovenian PrvaLiga | 1,809 | 2016/17 to 2026/27 (11) | 100 % | 74 % | 99 % | 100 % |
 | SWE | Other European Leagues | Sweden | Allsvenskan | 2,422 | 2016 to 2026 (11) | 100 % | 72 % | 100 % | 100 % |
 | TUR | Other European Leagues | Turkiye | Super Lig | 3,402 | 2016/17 to 2026/27 (11) | 100 % | 77 % | 100 % | 100 % |
-| UKR | Other European Leagues | Ukraine | Ukrainian Premier League | 2,076 | 2016/17 to 2026/27 (11) | 99 % | 76 % | 98 % | 99 % |
+| UKR | Other European Leagues | Ukraine | Ukrainian Premier League | 2,073 | 2016/17 to 2026/27 (11) | 100 % | 76 % | 98 % | 99 % |
 | WAL | Other European Leagues | Wales | Cymru Premier | 1,980 | 2016/17 to 2026/27 (11) | 0 % | 74 % | 97 % | 99 % |
 | UEFA_CL | International competitions | - | UEFA Champions League | 1,390 | 2016/17 to 2026/27 (11) | 99 % | 79 % | 99 % | 100 % |
 | UEFA_EL | International competitions | - | UEFA Europa League | 1,833 | 2016/17 to 2026/27 (11) | 100 % | 73 % | 99 % | 100 % |
@@ -186,7 +186,7 @@ One gzip file per competition: load only the competitions you need.
 | KSA | Asia & Africa | Saudi Arabia | Saudi Pro League | 2,535 | 2016/17 to 2026/27 (11) | 48 % | 71 % | 87 % | 96 % |
 | MAR | Asia & Africa | Morocco | Botola Pro | 2,403 | 2016/17 to 2026/27 (11) | 0 % | 73 % | 98 % | 99 % |
 | TUN | Asia & Africa | Tunisia | Tunisian Ligue Professionnelle 1 | 1,960 | 2016/17 to 2026/27 (11) | 0 % | 60 % | 77 % | 84 % |
-| **Total** |  |  |  | **197,640** | 898 | 70 % | 72 % | 96 % | 97 % |
+| **Total** |  |  |  | **197,615** | 898 | 70 % | 72 % | 96 % | 97 % |
 
 Lineups = both starting elevens present. Minute stats = at least one minute-by-minute statistic.
 Events = at least one event in the source timeline. Bet365 close = an FT 1X2 closing price from Bet365.
@@ -195,9 +195,9 @@ Events = at least one event in the source timeline. Bet365 close = an FT 1X2 clo
 
 | Bookmaker | Matches with an FT 1X2 close | Coverage | Markets (closing prices present) |
 |---|---|---|---|
-| Bet365 | 191,164 | 96.7 % | FT_1X2, FT_Total_Goals, FT_Asian_Handicap, HT_Total_Goals, HT_1X2, HT_Total_Corners, HT_Asian_Handicap, FT_Total_Corners |
-| Pinnacle | 145,008 | 73.4 % | FT_Total_Goals, FT_1X2, FT_Asian_Handicap |
-| Unibet | 166,828 | 84.4 % | FT_Total_Goals, FT_1X2 |
+| Bet365 | 191,146 | 96.7 % | FT_1X2, FT_Total_Goals, FT_Asian_Handicap, HT_Total_Goals, HT_1X2, HT_Total_Corners, HT_Asian_Handicap, FT_Total_Corners |
+| Pinnacle | 145,004 | 73.4 % | FT_Total_Goals, FT_1X2, FT_Asian_Handicap |
+| Unibet | 166,824 | 84.4 % | FT_Total_Goals, FT_1X2 |
 | Betfair (Sportsbook) | 37,412 | 18.9 % | FT_1X2 |
 | Betsson | 73,034 | 37.0 % | FT_1X2, FT_Total_Goals |
 
@@ -217,12 +217,12 @@ Events = at least one event in the source timeline. Bet365 close = an FT 1X2 clo
 | FRA_L2 | 3,585 | 100 % | 74 % | 91 % | 18 % | 37 % |
 | POR_PL | 3,112 | 100 % | 76 % | 91 % | 20 % | 39 % |
 | POR_SL | 3,223 | 100 % | 70 % | 87 % | 18 % | 37 % |
-| ALB | 1,653 | 74 % | 32 % | 0 % | 21 % | 28 % |
-| ARM | 1,400 | 92 % | 75 % | 64 % | 20 % | 31 % |
+| ALB | 1,649 | 74 % | 32 % | 0 % | 21 % | 28 % |
+| ARM | 1,399 | 92 % | 75 % | 64 % | 20 % | 31 % |
 | AUT | 1,934 | 100 % | 76 % | 93 % | 19 % | 39 % |
-| AZE | 1,399 | 98 % | 77 % | 85 % | 27 % | 45 % |
+| AZE | 1,398 | 98 % | 77 % | 85 % | 27 % | 45 % |
 | BEL | 2,982 | 100 % | 77 % | 92 % | 20 % | 41 % |
-| BIH | 1,881 | 98 % | 71 % | 71 % | 19 % | 37 % |
+| BIH | 1,876 | 98 % | 71 % | 71 % | 19 % | 37 % |
 | BLR | 2,354 | 53 % | 70 % | 48 % | not collected | not collected |
 | BUL | 2,594 | 99 % | 74 % | 84 % | 20 % | 42 % |
 | CRO | 1,814 | 100 % | 75 % | 90 % | 19 % | 38 % |
@@ -231,15 +231,15 @@ Events = at least one event in the source timeline. Bet365 close = an FT 1X2 clo
 | DEN | 2,172 | 100 % | 71 % | 92 % | 17 % | 35 % |
 | EST | 1,755 | 99 % | 72 % | 90 % | 18 % | 37 % |
 | FIN | 1,759 | 100 % | 70 % | 93 % | 17 % | 36 % |
-| FRO | 1,275 | 75 % | 62 % | 72 % | 18 % | 26 % |
-| GEO | 1,736 | 89 % | 71 % | 47 % | 20 % | 33 % |
+| FRO | 1,274 | 75 % | 62 % | 72 % | 18 % | 26 % |
+| GEO | 1,735 | 89 % | 71 % | 47 % | 20 % | 33 % |
 | GRE | 2,434 | 100 % | 75 % | 86 % | 20 % | 37 % |
-| HUN | 1,985 | 100 % | 75 % | 93 % | 19 % | 37 % |
-| IRL | 1,769 | 99 % | 72 % | 91 % | 19 % | 37 % |
+| HUN | 1,984 | 100 % | 75 % | 93 % | 19 % | 37 % |
+| IRL | 1,768 | 99 % | 72 % | 91 % | 19 % | 37 % |
 | ISL | 1,459 | 100 % | 73 % | 93 % | 19 % | 40 % |
 | ISR | 2,416 | 100 % | 77 % | 82 % | 20 % | 38 % |
 | KAZ | 1,839 | 98 % | 69 % | 77 % | 16 % | 35 % |
-| LTU | 1,520 | 98 % | 76 % | 88 % | 21 % | 43 % |
+| LTU | 1,519 | 98 % | 76 % | 88 % | 21 % | 43 % |
 | LUX | 2,159 | 57 % | 57 % | 44 % | 17 % | 19 % |
 | LVA | 1,492 | 99 % | 79 % | 79 % | 22 % | 47 % |
 | MDA | 1,149 | 77 % | 44 % | not collected | 13 % | 15 % |
@@ -249,17 +249,17 @@ Events = at least one event in the source timeline. Bet365 close = an FT 1X2 clo
 | NED | 3,100 | 100 % | 75 % | 91 % | 20 % | 40 % |
 | NIR | 2,271 | 100 % | 75 % | 87 % | 20 % | 29 % |
 | NOR | 2,415 | 100 % | 74 % | 94 % | 18 % | 39 % |
-| POL | 2,977 | 100 % | 75 % | 93 % | 19 % | 40 % |
+| POL | 2,976 | 100 % | 75 % | 93 % | 19 % | 40 % |
 | ROU | 3,035 | 99 % | 76 % | 92 % | 20 % | 40 % |
-| RUS | 2,459 | 54 % | 73 % | 48 % | not collected | not collected |
-| SCO | 2,305 | 100 % | 75 % | 91 % | 20 % | 38 % |
+| RUS | 2,458 | 54 % | 73 % | 48 % | not collected | not collected |
+| SCO | 2,304 | 100 % | 75 % | 92 % | 20 % | 38 % |
 | SRB | 3,019 | 100 % | 74 % | 74 % | 19 % | 37 % |
 | SUI | 1,970 | 100 % | 77 % | 93 % | 23 % | 44 % |
 | SVK | 1,926 | 100 % | 74 % | 91 % | 19 % | 37 % |
-| SVN | 1,812 | 100 % | 74 % | 90 % | 17 % | 37 % |
+| SVN | 1,809 | 100 % | 74 % | 90 % | 17 % | 37 % |
 | SWE | 2,422 | 100 % | 73 % | 93 % | 17 % | 39 % |
 | TUR | 3,402 | 100 % | 77 % | 93 % | 20 % | 39 % |
-| UKR | 2,076 | 99 % | 77 % | 81 % | 22 % | 34 % |
+| UKR | 2,073 | 99 % | 77 % | 81 % | 22 % | 34 % |
 | WAL | 1,980 | 99 % | 69 % | 85 % | 20 % | 38 % |
 | UEFA_CL | 1,390 | 100 % | 74 % | 91 % | 24 % | 44 % |
 | UEFA_EL | 1,833 | 100 % | 71 % | 89 % | 18 % | 35 % |
@@ -317,17 +317,17 @@ date for that competition, with at least 100 matches played since. The pack chap
 
 ## Other bookmakers: snapshots, not closing prices
 
-`Ultimate_Bookmaker_Snapshots_<CODE>` adds 37 more bookmakers (10,836,147 rows,
-188,867 matches, 13.9 bookmakers per match on average). The source keeps only three snapshots per bookmaker and market (the first price, one
+`Ultimate_Bookmaker_Snapshots_<CODE>` adds 37 more bookmakers (10,835,875 rows,
+188,855 matches, 13.9 bookmakers per match on average). The source keeps only three snapshots per bookmaker and market (the first price, one
 around kickoff, the last one): this table delivers the first price when it is pre-match (`Open`) and the latest
 snapshot that is still pre-match (`Last_Pre_Match`: no score, no match clock, taken before the scheduled kickoff).
 **It is a dated snapshot, not a closing price**: check `Minutes_Before_Kickoff` before comparing.
 
 | Market | Last_Pre_Match rows | Median minutes before kickoff | Within 60 minutes | More than 24 hours before |
 |---|---|---|---|---|
-| FT_1X2 | 2,571,679 | 93 | 47 % | 26 % |
-| FT_Asian_Handicap | 1,106,694 | 246 | 43 % | 32 % |
-| FT_Total_Goals | 1,740,382 | 153 | 43 % | 30 % |
+| FT_1X2 | 2,571,611 | 93 | 47 % | 26 % |
+| FT_Asian_Handicap | 1,106,667 | 246 | 43 % | 32 % |
+| FT_Total_Goals | 1,740,341 | 153 | 43 % | 30 % |
 
 The 5 bookmakers of the main tables are not repeated here (their full histories are in `Odds_Timestamped`).
 Prediction markets that the source lists with probabilities instead of odds (Polymarket, Kalshi) are left out.
@@ -484,13 +484,13 @@ Prediction markets that the source lists with probabilities instead of odds (Pol
 
 ## Knockout stages, extra time, penalties and neutral venues
 
-- **Stages** (28 values): Regular Season (169,884), Group Stage (8,696), Championship Round (4,321), Relegation Round (4,083), League Phase (1,490), First Stage (1,337), Second Stage (1,288), Round of 16 (1,185), Play-Offs (1,171), Quarter-finals (1,030), Semi-finals (523), Preliminary Round (479), Semi-final Groups (380), First Round (313), Final (271), Knockout Round Play-offs (256), League Stage (207), Europe Play-off Round (202), Round of 32 (176), Qualification Round (107), Play-In (78), Round One (66), Second Phase (30), Third Place (28), Promotion/Relegation Play-offs (20), Play-off for Quarter-finals (7), Relegation Play-outs (6), Fifth Place (6).
-- **Legs**: 5,007 matches carry a `Leg` (1 and 2 in a two-legged tie, 3 for a deciding third match);
+- **Stages** (28 values): Regular Season (169,858), Group Stage (8,696), Championship Round (4,321), Relegation Round (4,083), League Phase (1,490), First Stage (1,337), Second Stage (1,288), Round of 16 (1,185), Play-Offs (1,172), Quarter-finals (1,030), Semi-finals (523), Preliminary Round (479), Semi-final Groups (380), First Round (313), Final (271), Knockout Round Play-offs (256), League Stage (207), Europe Play-off Round (202), Round of 32 (176), Qualification Round (107), Play-In (78), Round One (66), Second Phase (30), Third Place (28), Promotion/Relegation Play-offs (20), Play-off for Quarter-finals (7), Relegation Play-outs (6), Fifth Place (6).
+- **Legs**: 5,009 matches carry a `Leg` (1 and 2 in a two-legged tie, 3 for a deciding third match);
   `Leg` is empty for a single match and outside knockout stages.
 - **Extra time** on 355 matches, **penalty shoot-outs** on 516; goals after 90 minutes, after extra
   time and in the shoot-out are separate columns.
 - **Neutral_Venue** compares the stadium's country with the home team's country code from the source: 1 = neutral
-  (1,228 matches), 0 = home ground country (186,564), empty = unknown (9,848).
+  (1,228 matches), 0 = home ground country (186,524), empty = unknown (9,863).
   A neutral ground inside the home team's own country counts as 0: the rule compares countries, not grounds.
 
 The pack chapters below give the rules and the exceptions competition by competition.
@@ -577,6 +577,50 @@ to Lens (id 9899): coach, stadium (Bollaert-Delelis) and event texts all say Len
 **Half-time scores.** 3 half-time scores were higher than the final score (the source counted a goal it
 later cancelled): left empty rather than wrong.
 
+**Home / away orientation.** A bookmaker sometimes lists a fixture with the two teams the other way round. Every price series is aligned on the match's home and away teams: 1X2 and Asian handicap, full time and half time, with the handicap line and the live score turned with it (4 match-bookmaker series turned: Unibet 2, Pinnacle 2).
+
+**37 fixtures are not in the tables** because the source never marked them as finished (18 result never confirmed by the source; 10 result decided by the federation; 6 abandoned; 2 removed by the source; 1 interrupted). They are listed so that a gap in a season is never silent:
+
+| Source event | League | Date | Home | Away | Score shown | Status |
+|---|---|---|---|---|---|---|
+| 2456255 | ESP_SEG | 2019-06-09 | Rayo Majadahonda | Reus Deportiu | 1-0 | result decided by the federation |
+| 2696802 | ESP_SEG | 2020-10-03 | Alcorcon | Real Zaragoza | 0-3 | result decided by the federation |
+| 96905 | FRA_L1 | 2016-12-03 | Metz | Lyon | 1-0 | abandoned |
+| 189809 | FRA_L1 | 2017-04-16 | SC Bastia | Lyon | 0-0 | result decided by the federation |
+| 336655 | FRA_L1 | 2017-09-30 | Amiens | Lille | 0-1 | abandoned |
+| 1685748 | FRA_L1 | 2019-07-10 | Dijon | St Etienne |  | result never confirmed by the source |
+| 1685749 | FRA_L1 | 2019-07-10 | Marseille | Reims |  | result never confirmed by the source |
+| 1685750 | FRA_L1 | 2019-07-10 | Nice | Amiens |  | result never confirmed by the source |
+| 1685751 | FRA_L1 | 2019-07-10 | Strasbourg | Metz |  | result never confirmed by the source |
+| 1685752 | FRA_L1 | 2019-07-10 | Montpellier | Rennes |  | result never confirmed by the source |
+| 1685753 | FRA_L1 | 2019-07-10 | Angers | Bordeaux |  | result never confirmed by the source |
+| 1685754 | FRA_L1 | 2019-07-10 | Lille | Nantes |  | result never confirmed by the source |
+| 1685755 | FRA_L1 | 2019-07-10 | Brest | Toulouse |  | result never confirmed by the source |
+| 1685756 | FRA_L1 | 2019-07-10 | Monaco | Lyon |  | result never confirmed by the source |
+| 10176991 | FRA_L1 | 2026-05-17 | Nantes | Toulouse | 0-0 | abandoned |
+| 1584743 | FRA_L2 | 2019-05-02 | Niort | Lorient |  | result never confirmed by the source |
+| 2528042 | FRA_L2 | 2020-12-22 | Niort | Valenciennes | 0-3 | result decided by the federation |
+| 5608149 | FRA_L2 | 2023-06-02 | Bordeaux | Rodez Aveyron | 0-1 | result decided by the federation |
+| 8384536 | FRA_L2 | 2024-10-26 | AC Ajaccio | SC Bastia | 0-0 | abandoned |
+| 10189127 | FRA_L2 | 2025-08-09 | AC Ajaccio | SC Bastia |  | removed by the source |
+| 11841481 | FRA_L2 | 2026-05-09 | SC Bastia | Le Mans | - | result decided by the federation |
+| 2244816 | GER_BL | 2020-03-14 | Union Berlin | Bayern Munich |  | result never confirmed by the source |
+| 8451644 | GER_BL | 2024-12-14 | Union Berlin | Bochum | 0-2 | result decided by the federation |
+| 487433 | GER_BL2 | 2018-01-24 | Darmstadt | Kaiserslautern | 0-0 | abandoned |
+| 2743490 | GER_BL2 | 2020-09-19 | Heidenheim | Eintracht Braunschweig |  | result never confirmed by the source |
+| 2743491 | GER_BL2 | 2020-09-19 | Greuther Furth | VfL Osnabruck |  | result never confirmed by the source |
+| 2743492 | GER_BL2 | 2020-09-19 | Holstein Kiel | Paderborn |  | result never confirmed by the source |
+| 2743560 | GER_BL2 | 2020-09-19 | Bochum | St Pauli |  | result never confirmed by the source |
+| 2704533 | ITA_SA | 2020-09-19 | Verona | Roma | 3-0 | result decided by the federation |
+| 6678858 | ITA_SB | 2023-06-01 | Brescia | Cosenza | 0-3 | result decided by the federation |
+| 9953789 | ITA_SB | 2025-05-19 | Salernitana | Frosinone |  | removed by the source |
+| 10092286 | ITA_SB | 2025-06-22 | Salernitana | Sampdoria | 0-3 | result decided by the federation |
+| 8468696 | POR_PL | 2025-01-03 | Nacional | FC Porto | 2-0 | abandoned |
+| 11806975 | POR_PL | 2026-05-02 | Famalicao | Benfica | 2-2 | interrupted |
+| 12450160 | POR_PL | 2026-08-23 | Estrela | Braga |  | result never confirmed by the source |
+| 12450208 | POR_PL | 2026-08-23 | Moreirense | Benfica |  | result never confirmed by the source |
+| 1367170 | POR_SL | 2018-12-22 | Arouca | Guimaraes |  | result never confirmed by the source |
+
 #### Said plainly - known limitations
 
 - **Pinnacle**: closing prices regular from 2018/19 on FT_1X2, FT_Asian_Handicap, FT_Total_Goals. Its Asian handicap is regular from 2023/24. Lower coverage in 2023/24 (see the season table).
@@ -661,10 +705,10 @@ later cancelled): left empty rather than wrong.
   an event dated from the 106th minute, or the source's extra-time score line. A shoot-out without that proof keeps
   Extra_Time = 0 (23 of the 59 shoot-outs): extra time may have been played without a goal
   or an event the source dates beyond the 105th minute.
-- **Two-legged ties** (254): `Leg` 1 and 2 when two teams meet twice in Play-Offs with home and away
+- **Two-legged ties** (255): `Leg` 1 and 2 when two teams meet twice in Play-Offs with home and away
   reversed, without another play-off match in between. 5 ties have only their second leg here (the source files the first leg with the lower division): `Leg` 2, with the source's aggregate score.
 - **Neutral_Venue** compares the stadium's country with the home team's country code from the source: 1 = neutral
-  (0 matches), 0 = home ground country (88,494), empty = unknown (4,146).
+  (0 matches), 0 = home ground country (88,458), empty = unknown (4,157).
   The source gives the same country code (gb) to Scottish, Welsh and Northern Irish clubs: The New Saints at home in
   Oswestry (England) count as home; so does FC Vaduz (Swiss league, Swiss code) at home in Liechtenstein.
 
@@ -672,10 +716,14 @@ later cancelled): left empty rather than wrong.
 
 Each decision below is written in the build code with its evidence; the build stops if a new unresolved case appears.
 
-**159 source events removed** (51 not played, result awarded; 35 duplicate id; 24 abandoned or not completed, result awarded; 17 resumption id of an interrupted match; 17 played, result changed afterwards; 6 duplicate id without data; 6 abandoned match, replayed; 3 postponed fixture listed twice):
+**184 source events removed** (51 not played, result awarded; 38 duplicate id; 24 abandoned or not completed, result awarded; 18 match of another competition filed under the league; 17 resumption id of an interrupted match; 17 played, result changed afterwards; 8 abandoned match, replayed; 6 duplicate id without data; 5 postponed fixture listed twice):
 
 | Source event | League | Reason | Evidence |
 |---|---|---|---|
+| 3397228 | ALB | match of another competition filed under the league | FC Dinamo City - FK Vora, 2021-04-17 (2-1): neither FC Dinamo City nor FK Vora plays any other match of this league season apart from the return fixture of 2021-05-09, also removed (fixture of another competition) |
+| 3397234 | ALB | match of another competition filed under the league | FK Vora - FC Dinamo City, 2021-05-09 (0-2): neither FK Vora nor FC Dinamo City plays any other match of this league season apart from the first fixture of 2021-04-17, also removed (fixture of another competition) |
+| 4563565 | ALB | match of another competition filed under the league | FK Egnatia - KF Tirana, 2022-01-16 (0-3): not a league fixture (no matchday, no venue, priced by 2 bookmakers only); the four league meetings of the season (matchdays 2, 11, 20, 29) are all present |
+| 5500779 | ALB | match of another competition filed under the league | KF Beselidhja Lezhe - KS Lushnja, 2023-02-18 (2-2): neither KF Beselidhja Lezhe nor KS Lushnja plays any other match of this league season (fixture of another competition) |
 | 1024143 | ALB | not played, result awarded | KS Kamza - KS Flamurtari Vlore, 2019-03-30: not played; result 0-3 awarded by the federation (source note: "Decided by association") |
 | 1024144 | ALB | not played, result awarded | Skenderbeu Korce - KS Kamza, 2019-03-27: not played; result 3-0 awarded by the federation (source note: "Decided by association") |
 | 1024149 | ALB | not played, result awarded | KS Kamza - KF Tirana, 2019-03-31: not played; result 0-3 awarded by the federation (source note: "Decided by association") |
@@ -690,11 +738,13 @@ Each decision below is written in the build code with its evidence; the build st
 | 1589546 | ALB | not played, result awarded | KS Luftetari - KS Kamza, 2019-03-16: not played; result 3-0 awarded by the federation (source note: "Decided by association") |
 | 7482430 | ALB | resumption id of an interrupted match | FK Egnatia - Partizani Tirana, 2023-11-23: separate id created for the resumption of an interrupted match; kept as 7034215 (the original id) |
 | 1761760 | ARM | abandoned or not completed, result awarded | FC Yerevan - Alashkert FC, 2020-02-28: abandoned or not played to the end; result 0-3 awarded (source note: "Decided by FA") |
+| 1888169 | ARM | match of another competition filed under the league | FC Urartu - Ararat Armenia, 2019-09-29 (1-0): not a league fixture (no matchday, no venue, priced by one bookmaker only); the two league meetings of the season (matchdays 6 and 15) are present |
 | 747649 | ARM | not played, result awarded | Shirak - Pyunik Yerevan, 2018-05-20: not played; result 0-3 awarded by the federation (source note: "Decided by association. Pyunik Yerevan gets a 3:0 win awarded.") |
 | 2674231 | ARM | not played, result awarded | FC Urartu - FC Lori, 2021-05-02: not played; result 3-0 awarded by the federation (source note: "Decided by association") |
 | 211816 | AUT | duplicate id | Rapid Vienna - FC Salzburg, 2016-08-28: duplicate id of the same match; kept as 405 |
 | 880529 | AZE | duplicate id | FK Sumqayit - Shamakhi FK, 2019-04-06: duplicate id of the same match; kept as 1547196 |
 | 8542695 | AZE | duplicate id | Shamakhi FK - Neftchi Baku, 2024-08-31: duplicate id of the same match; kept as 8542656 |
+| 3200719 | AZE | match of another competition filed under the league | FK Qarabag - FK Gabala, 2021-02-01 (3-1): Azerbaijan Cup match filed under the league; the four league meetings of the season (matchdays 6, 12, 18, 24) are present |
 | 262969 | AZE | played, result changed afterwards | Zira IK - Neftchi Baku, 2017-04-23: played (2-2 in the match events), result changed to 3-0 by the federation (source note: "Decided by association") |
 | 880453 | AZE | played, result changed afterwards | Sabail FC - Zira IK, 2018-09-15: played (1-1 in the match events), result changed to 3-0 by the federation (source note: "Decided by the Association") |
 | 880469 | AZE | played, result changed afterwards | FK Qarabag - Sabail FC, 2018-10-20: played (1-0 in the match events), result changed to 0-3 by the federation (source note: "Decided by association") |
@@ -706,6 +756,11 @@ Each decision below is written in the build code with its evidence; the build st
 | 3921618 | BEL | abandoned or not completed, result awarded | Union Saint Gilloise - KFCO Beerschot Wilrijk, 2022-04-10: abandoned or not played to the end; result 5-0 awarded (source note: "Decided by association") |
 | 3829148 | BEL | resumption id of an interrupted match | KFCO Beerschot Wilrijk - Cercle Brugge, 2021-07-27: separate id created for the resumption of an interrupted match; kept as 3640708 (the original id) |
 | 1674418 | BIH | abandoned or not completed, result awarded | Zeljeznicar - NK Celik Zenica, 2019-11-03: abandoned or not played to the end; result 3-0 awarded (source note: "Decided by the association") |
+| 2596350 | BIH | match of another competition filed under the league | FK Igman Konjic - NK Travnik, 2020-08-15 (0-0): neither FK Igman Konjic nor NK Travnik plays any other match of this league season (fixture of another competition) |
+| 4825803 | BIH | match of another competition filed under the league | Jedinstvo - Rudar Kakanj, 2022-04-23 (2-2): neither Jedinstvo nor Rudar Kakanj plays any other match of this league season (fixture of another competition) |
+| 4830141 | BIH | match of another competition filed under the league | FK Radnik Hadzici - FK Gorazde, 2022-03-26 (0-0): neither FK Radnik Hadzici nor FK Gorazde plays any other match of this league season (fixture of another competition) |
+| 7866183 | BIH | match of another competition filed under the league | FK Drina Zvornik - FK Rudar Prijedor, 2024-04-20 (3-0): neither FK Drina Zvornik nor FK Rudar Prijedor plays any other match of this league season (fixture of another competition) |
+| 10697430 | BIH | match of another competition filed under the league | Borac Banja Luka - FK Sarajevo, 2025-09-19 (2-1): not a league fixture (no matchday, no venue, priced by 3 bookmakers only); the four league meetings of the season (matchdays 5, 14, 23, 32) are present |
 | 3940170 | BIH | played, result changed afterwards | Velez Mostar - Borac Banja Luka, 2021-09-21: played (0-2 in the match events), result changed to 0-3 by the federation (source note: "Decided by association") |
 | 9546719 | BLR | duplicate id | Dinamo Minsk - Neman Grodno, 2025-06-20: duplicate id of the same match; kept as 10073304 |
 | 3894865 | BLR | abandoned or not completed, result awarded | FK Sputnik - Energetik-BGU Minsk, 2021-08-13: abandoned or not played to the end; result 0-3 awarded (source note: "Decided by association") |
@@ -732,11 +787,13 @@ Each decision below is written in the build code with its evidence; the build st
 | 918473 | CYP | played, result changed afterwards | AEK Larnaca - Pafos FC, 2019-01-02: played (1-1 in the match events), result changed to 3-0 by the federation (source note: "Decided by association") |
 | 4932364 | CYP | resumption id of an interrupted match | Ethnikos Achnas - Omonia Nicosia, 2022-04-20: separate id created for the resumption of an interrupted match; kept as 6713974 (the original id) |
 | 4644258 | FIN | played, result changed afterwards | AC Oulu - FC Inter, 2022-08-21: played (1-0 in the match events), result changed to 0-3 by the federation (source note: "Decided by association") |
+| 706143 | FRO | match of another competition filed under the league | Skala IF - FC Suduroy, 2018-04-07 (3-0): FC Suduroy plays no other match of this league season (fixture of another competition) |
 | 4647820 | FRO | postponed fixture listed twice | EB/Streymur - 07 Vestur, 2022-10-02: postponed fixture listed twice; kept as 5710486 |
 | 73842 | GEO | duplicate id | Dinamo Tbilisi - Lokomotiv Tbilisi, 2016-11-18: duplicate id of the same match; kept as 86382 |
 | 278442 | GEO | duplicate id | Kolkheti Poti - Dinamo Tbilisi, 2017-05-06: duplicate id of the same match; kept as 183939 |
 | 2617869 | GEO | duplicate id | Dila Gori - Torpedo Kutaisi, 2020-08-19: duplicate id of the same match; kept as 2647080 |
 | 217352 | GEO | abandoned or not completed, result awarded | Kolkheti Poti - FC Shukura, 2017-10-23: abandoned or not played to the end; result 0-3 awarded (source note: "Decided by the Association") |
+| 6235688 | GEO | match of another competition filed under the league | Kolkheti Poti - FC Gareji, 2023-04-26 (0-0): Kolkheti Poti plays no other match of this league season, and FC Gareji only the end-of-season play-off (fixture of another competition) |
 | 592070 | GRE | duplicate id | Levadiakos - Panathinaikos, 2018-01-14: duplicate id of the same match; kept as 355057 |
 | 747635 | GRE | duplicate id | Panathinaikos - Xanthi, 2018-05-07: duplicate id of the same match; kept as 356006 |
 | 285776 | GRE | abandoned or not completed, result awarded | Panathinaikos - PAOK Salonika, 2017-05-17: abandoned or not played to the end; result 0-3 awarded (source note: "Decided by association") |
@@ -744,14 +801,17 @@ Each decision below is written in the build code with its evidence; the build st
 | 885399 | GRE | abandoned or not completed, result awarded | Panathinaikos - Olympiacos, 2019-03-17: abandoned or not played to the end; result 0-3 awarded (source note: "Decided by association") |
 | 354573 | GRE | played, result changed afterwards | PAOK Salonika - AEK Athens, 2018-03-11: played (0-0 in the match events), result changed to 0-3 by the federation (source note: "Decided by association") |
 | 139996 | GRE | resumption id of an interrupted match | Iraklis - Kerkyra, 2017-02-01: separate id created for the resumption of an interrupted match; kept as 121847 (the original id) |
+| 358874 | HUN | abandoned match, replayed | Vasas - Haladas, 2017-09-23: abandoned (floodlight failure), replayed on 2017-10-17; kept as 494506 (the replay) |
 | 5982 | IRL | abandoned match, replayed | Sligo Rovers - Finn Harps, 2016-09-03: match abandoned, then replayed; kept as 36258 (the replay) |
 | 187358 | IRL | abandoned match, replayed | Galway United - Sligo Rovers, 2017-03-31: match abandoned, then replayed; kept as 240504 (the replay) |
+| 5966 | IRL | postponed fixture listed twice | Longford Town - Bray Wanderers, 2016-09-03: empty record, and no such match in the published season results; the fixture was played on 2016-09-10 (0-2), kept as 12556 |
 | 546100 | ISR | played, result changed afterwards | Hapoel Akko - Maccabi Petah Tikva, 2017-11-25: played (0-0 in the match events), result changed to 0-3 by the federation (source note: "Decided by the Association") |
 | 215872 | KAZ | duplicate id | Zhetysu - Shakhter Karagandy, 2016-09-18: duplicate id of the same match; kept as 21047 |
 | 886700 | KAZ | duplicate id | FK Aktobe - Irtysh Pavlodar, 2018-09-26: duplicate id of the same match; kept as 940134 |
 | 9587417 | KAZ | duplicate id without data | FK Atyrau - FC Astana, 2025-05-24: duplicate id without any match data; kept as 9886929 |
 | 5205262 | KAZ | resumption id of an interrupted match | Ordabasy - FK Aksu, 2022-06-29: separate id created for the resumption of an interrupted match; kept as 4746147 (the original id) |
 | 1484652 | LTU | abandoned or not completed, result awarded | FC Stumbras - FK Palanga, 2019-06-15: abandoned or not played to the end; result 0-3 awarded (source note: "Decision by Federation") |
+| 360414 | LTU | match of another competition filed under the league | Koralas Klaipeda - Panevezys, 2017-07-29 (2-1): neither Koralas Klaipeda nor Panevezys plays any other match of this league season (fixture of another competition) |
 | 1483981 | LTU | not played, result awarded | Suduva Marijampole - FC Stumbras, 2019-08-03: not played; result 3-0 awarded by the federation (source note: "Decided by association") |
 | 1483994 | LTU | not played, result awarded | FK Zalgiris Vilnius - FC Stumbras, 2019-10-19: not played; result 3-0 awarded by the federation (source note: "Decided by association") |
 | 1484656 | LTU | not played, result awarded | FK Palanga - FC Stumbras, 2019-08-11: not played; result 3-0 awarded by the federation (source note: "Decided by association") |
@@ -796,7 +856,10 @@ Each decision below is written in the build code with its evidence; the build st
 | 113510 | NIR | played, result changed afterwards | Portadown - Glenavon, 2016-12-26: played (2-2 in the match events), result changed to 3-0 by the federation (source note: "Decided by the Association") |
 | 486671 | POL | abandoned or not completed, result awarded | Piast Gliwice - Gornik Zabrze, 2018-03-03: abandoned or not played to the end; result 0-3 awarded (source note: "Match was abandoned after 84 minutes (1:0) due to security reasons. As decided by association Gornik Zabrze wins the match with 3:0 goals.") |
 | 711211 | POL | abandoned or not completed, result awarded | Lech Poznan - Legia Warsaw, 2018-05-20: abandoned or not played to the end; result 0-3 awarded (source note: "Match was abandoned after 79 minutes (0:2) due to security reasons. As decided by FA Legia Warszawa gets the win awarded with 3:0.") |
+| 10521716 | POL | postponed fixture listed twice | Piast Gliwice - Puszcza Niepolomice, 2023-12-02: postponed (snow), played on 2024-03-12; kept as 7953581 |
 | 108277 | ROU | abandoned or not completed, result awarded | ASA Targu Mures - Pandurii Targu Jiu, 2016-12-18: abandoned or not played to the end; result 3-0 awarded (source note: "Decided by association") |
+| 1676907 | RUS | duplicate id | Krasnodar - Rostov dated 2019-06-30 (before the season start, no live events): duplicate of matchday 15, played on 2019-11-03; kept as 2027611 |
+| 102740 | SCO | abandoned match, replayed | Aberdeen - Motherwell, 2016-12-13: abandoned (floodlight failures), replayed on 2017-02-15; kept as 151325 (the replay) |
 | 200023 | SRB | duplicate id | Vojvodina - Spartak Subotica, 2016-08-28: duplicate id of the same match; kept as 825 |
 | 205292 | SRB | duplicate id | FK Novi Pazar - Crvena Zvezda, 2016-08-28: duplicate id of the same match; kept as 455 |
 | 9952977 | SRB | duplicate id without data | FK Cukaricki - Partizan Belgrade, 2023-04-11: duplicate id without any match data; kept as 6548111 |
@@ -808,6 +871,9 @@ Each decision below is written in the build code with its evidence; the build st
 | 207119 | SVN | duplicate id | NK Celje - NK Maribor, 2016-08-28: duplicate id of the same match; kept as 862 |
 | 323729 | SVN | abandoned match, replayed | NK Krsko - NK Rudar Velenje, 2017-10-22: match abandoned, then replayed; kept as 506062 (the replay) |
 | 3062393 | SVN | abandoned match, replayed | Aluminij Kidricevo - FC Koper, 2020-10-03: match abandoned, then replayed; kept as 2821307 (the replay) |
+| 453348 | SVN | match of another competition filed under the league | Olimpija Ljubljana - FC Koper, 2017-09-25 (0-0): FC Koper plays no other match of this league season (record without matchday or venue) (fixture of another competition) |
+| 901929 | SVN | match of another competition filed under the league | NK Domzale - Aluminij Kidricevo, 2018-09-01 (0-0): not a league fixture (no matchday, no venue, no event, priced by 2 bookmakers only); the four league meetings of the season (matchdays 4, 13, 22, 31) are present |
+| 953089 | SVN | match of another competition filed under the league | FC Drava Ptuj - NK Domzale, 2018-10-03 (0-0): FC Drava Ptuj plays no other match of this league season (record without matchday or venue) (fixture of another competition) |
 | 541529 | SVN | resumption id of an interrupted match | NK Rudar Velenje - ND Gorica, 2017-11-20: separate id created for the resumption of an interrupted match; kept as 323454 (the original id) |
 | 5797386 | SVN | resumption id of an interrupted match | NK Bravo - NK Celje, 2022-10-24: separate id created for the resumption of an interrupted match; kept as 5189725 (the original id) |
 | 7568924 | SVN | resumption id of an interrupted match | NK Celje - FC Koper, 2023-12-16: separate id created for the resumption of an interrupted match; kept as 6814389 (the original id) |
@@ -829,9 +895,12 @@ Each decision below is written in the build code with its evidence; the build st
 | 5527950 | TUR | not played, result awarded | Hatayspor - Fenerbahce, 2023-05-07: not played; result 0-3 awarded by the federation (source note: "Decided by association") |
 | 4617392 | TUR | resumption id of an interrupted match | Gazisehir Gaziantep FK - Yeni Malatyaspor, 2022-02-23: separate id created for the resumption of an interrupted match; kept as 3774083 (the original id) |
 | 7454557 | TUR | resumption id of an interrupted match | Samsunspor - Istanbulspor, 2023-11-08: separate id created for the resumption of an interrupted match; kept as 6944593 (the original id) |
+| 618078 | UKR | duplicate id | Karpaty Lviv - Olimpik Donetsk dated 2018-02-21 (winter break, no venue, no referee): duplicate of matchday 18, played on 2017-12-03; kept as 325924 |
+| 8105201 | UKR | duplicate id | FC Zorya - Shakhtar Donetsk, 2024-04-18 (1-3): duplicate of 8069388 (same kick-off, same score) under another team id; kept as 8069388 |
 | 9547513 | UKR | duplicate id | Ingulets Petrovo - FC Zorya Lugansk, 2025-04-30: duplicate id of the same match; kept as 9890277 |
 | 9547655 | UKR | duplicate id | FC Kryvbas Kriviy Rih - Shakhtar Donetsk, 2025-04-16: duplicate id of the same match; kept as 9825895 |
 | 297032 | UKR | abandoned or not completed, result awarded | FC Dnipro - Volyn Lutsk, 2017-05-31: abandoned or not played to the end; result 0-3 awarded (source note: "Decided by the Association") |
+| 5774508 | UKR | match of another competition filed under the league | FC Metalist Kharkiv - FK Minai, 2022-10-19 (0-1): not a league fixture (no matchday, no venue, priced by 2 bookmakers only); the two league meetings of the season (matchdays 14 and 29) are present |
 | 8595176 | UKR | postponed fixture listed twice | FC Kryvbas Kriviy Rih - FC Livyi Bereh, 2025-03-15: postponed fixture listed twice; kept as 9857135 |
 | 492181 | UKR | not played, result awarded | FC Mariupol - Dynamo Kiev, 2017-08-27: not played; result 3-0 awarded by the federation (source note: "Decided by association") |
 | 870633 | WAL | abandoned match, replayed | Caernarfon Town - Llandudno, 2018-12-26: match abandoned, then replayed; kept as 1389802 (the replay) |
@@ -854,13 +923,318 @@ Each decision below is written in the build code with its evidence; the build st
 - 3686293: FK Proleter Novi Sad - Radnicki Nis, 2021-12-16: flagged by the source as decided by the federation (note: "Decided by association"); played to the end and the source's score equals the goals in the match events (2-0): kept as played
 - 5171753: Servette - Lucerne, 2023-03-12: flagged by the source as decided by the federation (note: "Decided by association"); played to the end and the source's score equals the goals in the match events (0-1): kept as played
 
-**Seasons and stages** come from a written table (season windows, the stages each season played, the expected number of matches per stage) checked match by match: every match is placed exactly once, every stage has exactly its number of matches, and the build stops otherwise. Seasons cut short or reshaped (Covid-19 in 2019/20 and 2020, the 2022/23 Turkish season after the earthquake, the 2021/22 Ukrainian season stopped by the war, first seasons that start mid-season) are delivered as played; 45 irregular seasons were placed with a written rule each.
+**Seasons and stages** come from a written table (season windows, the stages each season played, the expected number of matches per stage) checked match by match: every match is placed exactly once, every stage has exactly its number of matches, and the build stops otherwise. Seasons cut short or reshaped (Covid-19 in 2019/20 and 2020, the 2022/23 Turkish season after the earthquake, the 2021/22 Ukrainian season stopped by the war, first seasons that start mid-season) are delivered as played; 46 irregular seasons were placed with a written rule each.
 
 **Venues.** 445 matches had the stadium name written in the country field (shifted, Cyrillic or bare text), a wrong city and country (UCD Bowl, Dublin, stored with a US town), or a second spelling of the same country: stadium, city and country are restored from a written list (33 venues). A city is left empty when it is not certain.
 
 **Team country.** One club carries a wrong country code in the source (FK Grbalj, Montenegro, coded as Serbia): corrected on its 133 matches, so `Neutral_Venue` stays 0 at its home ground.
 
 **Half-time scores.** 4 half-time scores were higher than the final score (the source counted a goal it later cancelled): left empty rather than wrong.
+
+**Home / away orientation.** A bookmaker sometimes lists a fixture with the two teams the other way round. Every price series is aligned on the match's home and away teams: 1X2 and Asian handicap, full time and half time, with the handicap line and the live score turned with it (164 match-bookmaker series turned: Bet365 101, Unibet 34, Betsson 15, Pinnacle 12, Betfair 2); the other bookmakers' snapshots likewise (1,192 match-bookmaker sets). 104 matches were listed by the source with home and away reversed: 74 because almost all bookmakers show the other team at home (each checked against the clubs' usual grounds and the home / away balance of the pair in the season), 30 because the home / away balance of the pair in the season was broken and the published round-by-round results of the season show the other team at home. These matches are turned around everywhere (teams, goals, lineups, statistics, events, prices); turning a match leaves its venue as it was (wrong venues are corrected or removed below):
+
+| Source event | League | Date | Home | Away | Found by |
+|---|---|---|---|---|---|
+| 7482431 | ALB | 2023-12-07 | Partizani Tirana | Teuta Durres | bookmakers |
+| 10927752 | ALB | 2025-11-04 | FK Vora | Partizani Tirana | bookmakers |
+| 10328259 | ALB | 2025-11-07 | Bylis Ballsh | KS Flamurtari Vlore | bookmakers |
+| 10328191 | ALB | 2025-12-04 | FK Vora | Vllaznia Shkoder | bookmakers |
+| 10328186 | ALB | 2026-01-15 | Partizani Tirana | FK Vora | bookmakers |
+| 10328184 | ALB | 2026-01-25 | Teuta Durres | FK Vora | bookmakers |
+| 10328182 | ALB | 2026-02-06 | Vllaznia Shkoder | FK Vora | bookmakers |
+| 10328180 | ALB | 2026-02-21 | AF Elbasani | FK Vora | bookmakers |
+| 11872036 | ALB | 2026-05-24 | AF Elbasani | FC Dinamo City | bookmakers |
+| 430518 | ARM | 2017-09-27 | Ararat Yerevan | Alashkert FC | season results |
+| 734987 | ARM | 2018-04-28 | Ararat Yerevan | FC Urartu | season results |
+| 735494 | ARM | 2018-04-28 | Gandzasar Kapan | Alashkert FC | bookmakers |
+| 874181 | ARM | 2018-08-25 | Ararat Yerevan | FC Urartu | season results |
+| 1030656 | ARM | 2019-05-19 | FC Noah | Alashkert FC | season results |
+| 2674156 | ARM | 2020-09-13 | Alashkert FC | FC Urartu | season results |
+| 9451286 | ARM | 2025-02-28 | Gandzasar Kapan | Ararat Yerevan | season results |
+| 763049 | AZE | 2018-05-21 | FK Gabala | FK Qarabag | bookmakers |
+| 4153599 | AZE | 2022-05-15 | Zira IK | Neftchi Baku | season results |
+| 5344734 | AZE | 2022-08-21 | FK Kapaz | FK Gabala | bookmakers |
+| 693210 | BLR | 2018-03-30 | FK Luch Minsk | FC Minsk | season results |
+| 696443 | BLR | 2018-04-07 | Dinamo Minsk | Isloch | season results |
+| 2252727 | BLR | 2020-03-29 | Isloch | Smolevichi | season results |
+| 1649262 | BUL | 2019-08-11 | Arda Kardzhali | Lokomotiv Plovdiv | bookmakers |
+| 8347951 | BUL | 2024-08-02 | FC Hebar Pazardzhik | Slavia Sofia | bookmakers |
+| 8347964 | BUL | 2024-08-18 | FC Hebar Pazardzhik | Botev Plovdiv | bookmakers |
+| 8720222 | BUL | 2024-09-01 | FC Hebar Pazardzhik | Beroe | bookmakers |
+| 8348000 | BUL | 2024-09-29 | Botev Vratsa | Ludogorets Razgrad | bookmakers |
+| 8919723 | BUL | 2024-10-26 | FC Hebar Pazardzhik | Krumovgrad | bookmakers |
+| 8348030 | BUL | 2024-11-10 | FC Hebar Pazardzhik | CSKA 1948 Sofia | bookmakers |
+| 10597086 | BUL | 2026-03-09 | Montana | Ludogorets Razgrad | bookmakers |
+| 877742 | CRO | 2018-08-19 | NK Rudes | HNK Rijeka | bookmakers |
+| 8807992 | CRO | 2025-05-17 | NK Lokomotiva Zagreb | Dinamo Zagreb | bookmakers |
+| 3176868 | EST | 2021-05-05 | JK Nomme Kalju | FC Flora Tallinn | bookmakers |
+| 4248650 | EST | 2021-11-20 | Tallinna JK Legion | FC Flora Tallinn | bookmakers |
+| 4644154 | FIN | 2022-04-08 | FC Lahti | VPS Vaasa | bookmakers |
+| 3264921 | FRO | 2021-04-11 | NSI Runavik | IF Fuglafjordur | season results |
+| 655711 | GEO | 2018-06-17 | FC Sioni Bolnisi | Lokomotiv Tbilisi | season results |
+| 889340 | GEO | 2018-10-02 | FC Rustavi | Lokomotiv Tbilisi | season results |
+| 2759187 | GEO | 2020-10-03 | FC Merani Tbilisi | Lokomotiv Tbilisi | season results |
+| 3232958 | GEO | 2021-04-16 | Lokomotiv Tbilisi | Dinamo Tbilisi | bookmakers |
+| 4943974 | GEO | 2022-04-23 | FC Gagra | Dinamo Tbilisi | bookmakers |
+| 3305296 | KAZ | 2021-04-23 | Shakhter Karagandy | FC Astana | bookmakers |
+| 9949292 | KAZ | 2025-05-14 | Kaisar Kyzylorda | FK Aktobe | bookmakers |
+| 1484644 | LTU | 2019-04-06 | FK Palanga | Atlantas Klaipeda | bookmakers |
+| 1471594 | LVA | 2019-06-30 | Metta/LU | Riga FC | bookmakers |
+| 3543737 | LVA | 2021-05-20 | FC Noah Jurmala | Riga FC | bookmakers |
+| 3329201 | LVA | 2021-07-25 | Metta/LU | Riga FC | bookmakers |
+| 4708588 | LVA | 2022-03-12 | FK Spartaks Jurmala | RFS | bookmakers |
+| 5385346 | LVA | 2022-08-15 | BFC Daugavpils | Riga FC | bookmakers |
+| 5624728 | LVA | 2022-09-27 | BFC Daugavpils | RFS | bookmakers |
+| 4853184 | LVA | 2022-10-22 | Metta/LU | Riga FC | bookmakers |
+| 11380737 | MKD | 2026-02-10 | KF Shkupi Skopje | Tikves Kavadarci | bookmakers |
+| 10400673 | MKD | 2026-03-03 | KF Shkupi Skopje | KF Bashkimi | bookmakers |
+| 7924080 | MLT | 2024-04-21 | Mosta FC | Hibernians | bookmakers |
+| 10903074 | MLT | 2025-11-01 | Birkirkara | Hamrun Spartans | bookmakers |
+| 3236349 | NIR | 2021-02-20 | Crusaders | Ballymena Utd | season results |
+| 5144100 | POL | 2022-09-18 | Warta Poznan | Lech Poznan | bookmakers |
+| 6775461 | POL | 2023-09-17 | Warta Poznan | Lech Poznan | bookmakers |
+| 1678253 | ROU | 2019-10-21 | CSM Politehnica Iasi | FC Botosani | bookmakers |
+| 6870267 | ROU | 2024-03-09 | Rapid Bucuresti | FCSB | bookmakers |
+| 93947 | RUS | 2016-12-01 | Tom Tomsk | Lokomotiv Moscow | season results |
+| 102974 | RUS | 2017-03-03 | Tom Tomsk | Rostov | season results |
+| 695637 | RUS | 2018-03-31 | Amkar Perm | Lokomotiv Moscow | bookmakers |
+| 8337678 | SRB | 2024-07-19 | FK Napredak | Partizan Belgrade | bookmakers |
+| 8337919 | SRB | 2024-08-11 | Vojvodina | FK Backa Topola | bookmakers |
+| 184150 | SVK | 2017-04-22 | MFK Zemplin Michalovce | Dunajska Streda | season results |
+| 184160 | SVK | 2017-05-06 | MFK Zemplin Michalovce | MSK Zilina | season results |
+| 184131 | SVK | 2017-05-27 | MFK Zemplin Michalovce | Slovan Bratislava | season results |
+| 799250 | SVK | 2018-09-29 | SK Sered | FC Nitra | season results |
+| 1653389 | SVK | 2019-11-03 | AS Trencin | MSK Zilina | bookmakers |
+| 487336 | SVN | 2018-04-07 | Ankaran Hrvatini | ND Gorica | season results |
+| 35851 | UKR | 2016-10-02 | Shakhtar Donetsk | FC Zorya Lugansk | season results |
+| 180285 | UKR | 2017-03-11 | Olimpik Donetsk | Vorskla Poltava | season results |
+| 244601 | UKR | 2017-04-16 | Chernomorets Odessa | PFC Oleksandria | season results |
+| 245586 | UKR | 2017-04-30 | Chernomorets Odessa | Dynamo Kiev | season results |
+| 297131 | UKR | 2017-05-31 | Dynamo Kiev | Chernomorets Odessa | season results |
+| 859386 | UKR | 2018-08-04 | Vorskla Poltava | FC Lviv | season results |
+| 788267 | UKR | 2018-11-04 | FC Lviv | Vorskla Poltava | season results |
+| 2403202 | UKR | 2020-05-31 | Shakhtar Donetsk | Dynamo Kiev | bookmakers |
+| 2419546 | UKR | 2020-06-07 | FC Lviv | Dnipro-1 | bookmakers |
+| 2402819 | UKR | 2020-07-19 | Kolos Kovalivka | Dynamo Kiev | bookmakers |
+| 2642549 | UKR | 2020-09-26 | FK Minai | Dynamo Kiev | bookmakers |
+| 2865621 | UKR | 2020-10-24 | Shakhtar Donetsk | Vorskla Poltava | season results |
+| 2641796 | UKR | 2020-10-31 | Dnipro-1 | Dynamo Kiev | bookmakers |
+| 2642538 | UKR | 2020-11-01 | Ingulets Petrovo | FC Zorya Lugansk | bookmakers |
+| 2641830 | UKR | 2021-02-21 | Desna Chernihiv | Dynamo Kiev | bookmakers |
+| 2642517 | UKR | 2021-02-21 | Ingulets Petrovo | Vorskla Poltava | bookmakers |
+| 2641836 | UKR | 2021-02-27 | FC Mariupol | Dnipro-1 | bookmakers |
+| 2641839 | UKR | 2021-03-06 | FC Mariupol | Vorskla Poltava | bookmakers |
+| 2641841 | UKR | 2021-03-14 | FC Mariupol | Kolos Kovalivka | bookmakers |
+| 2641850 | UKR | 2021-04-10 | Dynamo Kiev | Dnipro-1 | bookmakers |
+| 2641852 | UKR | 2021-04-11 | Olimpik Donetsk | Kolos Kovalivka | bookmakers |
+| 2641864 | UKR | 2021-05-05 | Dynamo Kiev | FC Mariupol | bookmakers |
+| 2642492 | UKR | 2021-05-06 | FK Minai | Shakhtar Donetsk | bookmakers |
+| 3716212 | UKR | 2021-08-18 | Ingulets Petrovo | Dynamo Kiev | bookmakers |
+| 3716222 | UKR | 2021-11-19 | Chernomorets Odessa | Dynamo Kiev | bookmakers |
+| 3747361 | UKR | 2021-12-06 | Dnipro-1 | Chernomorets Odessa | bookmakers |
+| 5486543 | UKR | 2023-06-04 | FC Metalist Kharkiv | Chernomorets Odessa | bookmakers |
+| 6875931 | UKR | 2023-07-28 | FC Veres Rivne | Polissya Zhytomyr | bookmakers |
+| 6876036 | UKR | 2024-02-25 | FC Kharkiv | Dynamo Kiev | bookmakers |
+| 8422545 | UKR | 2024-12-15 | Ingulets Petrovo | Kolos Kovalivka | bookmakers |
+| 8422586 | UKR | 2025-04-04 | Ingulets Petrovo | Obolon Kyiv | bookmakers |
+| 10210853 | UKR | 2025-10-18 | FC Zorya Lugansk | Dynamo Kiev | bookmakers |
+| 11750304 | UKR | 2026-04-15 | FC Kharkiv | FC Veres Rivne | bookmakers |
+
+**2 venues were corrected.** The source gives a wrong venue for these matches; the venue shown is the real one, each with its evidence:
+
+| Source event | League | Date | Home | Away | Venue in the source | Venue | Evidence |
+|---|---|---|---|---|---|---|---|
+| 799250 | SVK | 2018-09-29 | SK Sered | FC Nitra | Stadion SKF Sered, Sered | Stadion pod Zoborom, Nitra | season results: "played in Nitra" |
+| 2865621 | UKR | 2020-10-24 | Shakhtar Donetsk | Vorskla Poltava | Butovsky Vorskla Stadium, Poltava | Bannikov Stadium, Kiev | season results: "Match played at Bannikov Stadium, Kyiv" |
+
+**22 venues were removed.** The source listed these matches the wrong way round and gave the other club's ground as the venue; the real venue is not proven, so Stadium is left empty rather than wrong:
+
+| Source event | League | Date | Home | Away | Venue in the source |
+|---|---|---|---|---|---|
+| 9451286 | ARM | 2025-02-28 | Gandzasar Kapan | Ararat Yerevan | Hrazdan Stadium, Yerevan |
+| 763049 | AZE | 2018-05-21 | FK Gabala | FK Qarabag | Azersun Arena, Baku |
+| 4153599 | AZE | 2022-05-15 | Zira IK | Neftchi Baku | Bakcell Arena, Baku |
+| 2252727 | BLR | 2020-03-29 | Isloch | Smolevichi | Ozyorny Stadium, Smalyavichy |
+| 8347964 | BUL | 2024-08-18 | FC Hebar Pazardzhik | Botev Plovdiv | Hristo Botev Stadium, Plovdiv |
+| 8720222 | BUL | 2024-09-01 | FC Hebar Pazardzhik | Beroe | Beroe Stadium, Stara Zagora |
+| 8919723 | BUL | 2024-10-26 | FC Hebar Pazardzhik | Krumovgrad | Botev 1912 Football Complex, Plovdiv |
+| 8348030 | BUL | 2024-11-10 | FC Hebar Pazardzhik | CSKA 1948 Sofia | Bistritsa Stadium, Bistritsa |
+| 10597086 | BUL | 2026-03-09 | Montana | Ludogorets Razgrad | Huvepharma Arena, Razgrad |
+| 877742 | CRO | 2018-08-19 | NK Rudes | HNK Rijeka | Stadion HNK Rijeka, Rijeka |
+| 4644154 | FIN | 2022-04-08 | FC Lahti | VPS Vaasa | Elisa Stadion, Vaasa |
+| 3264921 | FRO | 2021-04-11 | NSI Runavik | IF Fuglafjordur | Fuglafjørdur Stadium, Fuglafjoerdur |
+| 6775461 | POL | 2023-09-17 | Warta Poznan | Lech Poznan | Stadium Poznan, Poznan |
+| 695637 | RUS | 2018-03-31 | Amkar Perm | Lokomotiv Moscow | RZD Arena, Moscow |
+| 184150 | SVK | 2017-04-22 | MFK Zemplin Michalovce | Dunajska Streda | DAC Arena, Dunajska Streda |
+| 184131 | SVK | 2017-05-27 | MFK Zemplin Michalovce | Slovan Bratislava | Stadion Pasienky, Bratislava |
+| 180285 | UKR | 2017-03-11 | Olimpik Donetsk | Vorskla Poltava | Butovsky Vorskla Stadium, Poltava |
+| 244601 | UKR | 2017-04-16 | Chernomorets Odessa | PFC Oleksandria | CSC Nika Stadium, Oleksandria |
+| 788267 | UKR | 2018-11-04 | FC Lviv | Vorskla Poltava | Butovsky Vorskla Stadium, Poltava |
+| 2642538 | UKR | 2020-11-01 | Ingulets Petrovo | FC Zorya Lugansk | Slavutych-Arena, Zaporizhia |
+| 2641850 | UKR | 2021-04-10 | Dynamo Kiev | Dnipro-1 | Dnipro Arena, Dnipropetrovsk |
+| 5486543 | UKR | 2023-06-04 | FC Metalist Kharkiv | Chernomorets Odessa | Chornomorets Stadium, Odessa |
+
+**157 fixtures are not in the tables** because the source never marked them as finished (133 result decided by the federation; 18 abandoned; 4 result never confirmed by the source; 2 removed by the source). They are listed so that a gap in a season is never silent:
+
+| Source event | League | Date | Home | Away | Score shown | Status |
+|---|---|---|---|---|---|---|
+| 2399341 | ARM | 2020-03-07 | FC Urartu | FC Yerevan | 3-0 | result decided by the federation |
+| 2621076 | ARM | 2020-08-17 | FC Urartu | FC Lori | 3-0 | result decided by the federation |
+| 2622281 | ARM | 2020-08-24 | FC Lori | FC Van | 0-3 | result decided by the federation |
+| 2674171 | ARM | 2020-10-03 | FC Lori | Alashkert FC | 0-3 | result decided by the federation |
+| 2674225 | ARM | 2021-03-16 | Ararat Yerevan | FC Lori | 3-0 | result decided by the federation |
+| 3553419 | ARM | 2021-04-13 | FC Lori | Ararat Armenia | 0-3 | result decided by the federation |
+| 3547016 | ARM | 2021-05-18 | Ararat Yerevan | FC Lori | 3-0 | result decided by the federation |
+| 9099421 | ARM | 2024-11-21 | Pyunik Yerevan | FC West Armenia | 3-0 | result decided by the federation |
+| 9865255 | ARM | 2025-05-09 | FC West Armenia | Ararat Armenia | 0-3 | result decided by the federation |
+| 9927288 | ARM | 2025-05-16 | Alashkert FC | FC West Armenia | 3-0 | result decided by the federation |
+| 9927539 | ARM | 2025-05-27 | Shirak | FC West Armenia | 3-0 | result decided by the federation |
+| 404469 | AUT | 2018-05-12 | Wolfsberger AC | FK Austria Vienna | 0-0 | abandoned |
+| 10538128 | AZE | 2025-09-13 | Imisli | FK Sumqayit | 0-3 | result decided by the federation |
+| 2123937 | BEL | 2018-05-18 | Zulte-Waregem | Lierse Kempenzonen | 5-0 | result decided by the federation |
+| 1680869 | BEL | 2020-01-25 | Charleroi | KV Mechelen | 1-0 | abandoned |
+| 3639284 | BEL | 2022-01-15 | RFC Seraing | Union Saint Gilloise | 0-2 | abandoned |
+| 5208666 | BEL | 2022-10-23 | Standard Liege | Anderlecht | 5-0 | result decided by the federation |
+| 5208684 | BEL | 2022-11-12 | Charleroi | KV Mechelen | 0-5 | result decided by the federation |
+| 8009909 | BEL | 2024-05-10 | Standard Liege | Westerlo | 0-5 | result decided by the federation |
+| 8338921 | BEL | 2024-09-29 | Antwerp | KFCO Beerschot Wilrijk | 5-0 | result decided by the federation |
+| 10134648 | BEL | 2025-10-17 | Standard Liege | Antwerp | - | abandoned |
+| 3370846 | BIH | 2021-05-23 | FK Krupa | FK Olimpik Sarajevo | 3-0 | result decided by the federation |
+| 3370852 | BIH | 2021-05-30 | FK Olimpik Sarajevo | FK Sarajevo | 0-3 | result decided by the federation |
+| 5016876 | BIH | 2022-05-14 | Siroki Brijeg | FK Sarajevo | 3-0 | result decided by the federation |
+| 9146572 | BIH | 2024-11-22 | FK Igman Konjic | Zeljeznicar | 0-2 | result decided by the federation |
+| 9867713 | BIH | 2025-04-26 | Sloboda Tuzla | HSK Posusje | 0-3 | result decided by the federation |
+| 3311337 | BLR | 2021-07-16 | Dinamo Brest | FK Sputnik | 3-0 | result decided by the federation |
+| 3327425 | BLR | 2021-07-23 | FK Sputnik | FK Gomel | 0-3 | result decided by the federation |
+| 3309111 | BLR | 2021-07-30 | FC Minsk | FK Sputnik | 3-0 | result decided by the federation |
+| 3309116 | BLR | 2021-08-20 | Isloch | FK Sputnik | 3-0 | result decided by the federation |
+| 3327431 | BLR | 2021-08-28 | FK Sputnik | FC Smorgon | 0-3 | result decided by the federation |
+| 3312434 | BLR | 2021-09-11 | Shakhter Soligorsk | FK Sputnik | 3-0 | result decided by the federation |
+| 3321634 | BLR | 2021-09-17 | FK Sputnik | FC Rukh Brest | 0-3 | result decided by the federation |
+| 3312439 | BLR | 2021-10-15 | FK Sputnik | Neman Grodno | 0-3 | result decided by the federation |
+| 3327438 | BLR | 2021-10-23 | Dinamo Minsk | FK Sputnik | 3-0 | result decided by the federation |
+| 3309541 | BLR | 2021-11-06 | FK Sputnik | Torpedo Zhodino | 0-3 | result decided by the federation |
+| 3312175 | BLR | 2021-11-20 | FC Vitebsk | FK Sputnik | 3-0 | result decided by the federation |
+| 3327449 | BLR | 2021-11-28 | FK Sputnik | FC Slutsk | 0-3 | result decided by the federation |
+| 4723781 | BLR | 2022-07-03 | FK Gomel | Neman Grodno | 3-0 | result decided by the federation |
+| 6317060 | BLR | 2023-09-24 | Naftan Novopolotsk | FC Smorgon | 3-0 | result decided by the federation |
+| 10123475 | CRO | 2025-12-14 | Istra 1961 | HNK Rijeka | 1-1 | abandoned |
+| 5270139 | CYP | 2022-12-04 | Apollon Limassol | AEL Limassol |  | result decided by the federation |
+| 5269365 | CYP | 2022-12-23 | Anorthosis Famagusta | APK Karmotissa | 0-3 | result decided by the federation |
+| 6943421 | CYP | 2024-01-28 | Othellos Athienou | AEL Limassol | 0-3 | result decided by the federation |
+| 8761953 | CYP | 2024-09-15 | Apollon Limassol | AEL Limassol | 3-0 | result decided by the federation |
+| 11801649 | CZE | 2026-05-09 | Slavia Prague | Sparta Prague | 0-3 | result decided by the federation |
+| 3177393 | EST | 2021-06-21 | Parnu JK Vaprus | JK Viljandi Tulevik | 0-1 | result decided by the federation |
+| 6138961 | EST | 2023-03-07 | JK Tammeka Tartu | JK Tallinna Kalev |  | removed by the source |
+| 4588813 | GEO | 2022-04-29 | Torpedo Kutaisi | Dinamo Tbilisi | 0-3 | result decided by the federation |
+| 7245910 | GRE | 2023-10-01 | Lamia | Panathinaikos |  | result never confirmed by the source |
+| 6936849 | GRE | 2023-10-22 | Olympiacos | Panathinaikos | 0-3 | result decided by the federation |
+| 2555463 | HUN | 2020-08-22 | Ferencvarosi TC | Diosgyori VTK |  | result decided by the federation |
+| 2565400 | HUN | 2020-11-06 | Diosgyori VTK | Ujpest | 3-0 | result decided by the federation |
+| 174058 | IRL | 2017-03-03 | Derry City | Limerick | 1-1 | abandoned |
+| 3330028 | IRL | 2021-05-15 | Sligo Rovers | Waterford FC | 3-0 | result decided by the federation |
+| 3062349 | ISL | 2020-09-20 | IA Akranes | Grotta Seltjarnarnes |  | result never confirmed by the source |
+| 2743533 | ISR | 2020-09-21 | Beitar Jerusalem | Hapoel Kiryat Shmona | 0-0 | result decided by the federation |
+| 4798019 | ISR | 2022-05-16 | Hapoel Bnei Sakhnin | Maccabi Haifa | 0-3 | result decided by the federation |
+| 8399875 | ISR | 2024-09-01 | Hapoel Beer Sheva | Hapoel Bnei Sakhnin |  | result decided by the federation |
+| 8399985 | ISR | 2025-01-27 | Maccabi Haifa | Maccabi Tel Aviv | 0-3 | result decided by the federation |
+| 10196373 | ISR | 2025-10-19 | Hapoel Tel Aviv | Maccabi Tel Aviv | 0-3 | result decided by the federation |
+| 8372604 | LTU | 2024-09-20 | DFK Dainava | Suduva Marijampole | 0-3 | result decided by the federation |
+| 8424043 | LUX | 2024-12-01 | Swift Hesperange | US Mondorf-Les-Bains | 0-3 | result decided by the federation |
+| 2444171 | LVA | 2020-11-26 | Valmiera FC | BFC Daugavpils | 3-0 | result decided by the federation |
+| 2444174 | LVA | 2020-11-29 | Riga FC | FK Ventspils | 0-3 | result decided by the federation |
+| 3329086 | LVA | 2021-03-13 | FK Ventspils | Riga FC | 0-3 | result decided by the federation |
+| 3329132 | LVA | 2021-03-20 | FK Ventspils | RFS | 1-1 | result decided by the federation |
+| 3329135 | LVA | 2021-04-04 | Valmiera FC | FK Ventspils | 1-0 | result decided by the federation |
+| 3329177 | LVA | 2021-04-11 | FK Ventspils | BFC Daugavpils | 0-1 | result decided by the federation |
+| 3329141 | LVA | 2021-04-18 | FK Ventspils | FK Liepaja | 0-1 | result decided by the federation |
+| 3329144 | LVA | 2021-04-25 | FK Spartaks Jurmala | FK Ventspils |  | removed by the source |
+| 3329153 | LVA | 2021-05-01 | FK Ventspils | Metta/LU | 5-2 | result decided by the federation |
+| 3329158 | LVA | 2021-05-05 | Riga FC | FK Ventspils | 3-0 | result decided by the federation |
+| 3329161 | LVA | 2021-05-10 | RFS | FK Ventspils | 1-0 | result decided by the federation |
+| 3329164 | LVA | 2021-05-14 | FK Ventspils | Valmiera FC | 0-2 | result decided by the federation |
+| 3534339 | LVA | 2021-05-17 | FK Ventspils | FC Noah Jurmala | 2-2 | result decided by the federation |
+| 3329169 | LVA | 2021-05-23 | FK Liepaja | FK Ventspils | 3-1 | result decided by the federation |
+| 3329172 | LVA | 2021-05-29 | FK Ventspils | FK Spartaks Jurmala | 0-0 | result decided by the federation |
+| 3463919 | LVA | 2021-06-17 | BFC Daugavpils | FK Ventspils | 3-2 | result decided by the federation |
+| 3336253 | LVA | 2021-07-18 | Valmiera FC | FC Noah Jurmala | 3-0 | result decided by the federation |
+| 2541590 | MDA | 2021-05-16 | CS Petrocub | Speranta Nisporeni | 3-0 | result decided by the federation |
+| 2554771 | MDA | 2021-05-19 | Speranta Nisporeni | Dacia Buiucani | 0-3 | result decided by the federation |
+| 2563057 | MDA | 2021-05-22 | Speranta Nisporeni | Codru Lozova | 0-3 | result decided by the federation |
+| 2575257 | MDA | 2021-05-26 | Sfintul Gheorghe | Speranta Nisporeni | 3-0 | result decided by the federation |
+| 4472721 | MDA | 2022-04-08 | FC Floresti | Zimbru Chisinau | 0-3 | result decided by the federation |
+| 4472723 | MDA | 2022-04-15 | FC Dinamo Auto | FC Floresti | 3-0 | result decided by the federation |
+| 4472732 | MDA | 2022-04-28 | FC Floresti | FC Milsami | 0-3 | result decided by the federation |
+| 4472736 | MDA | 2022-05-07 | Sfintul Gheorghe | FC Floresti | 3-0 | result decided by the federation |
+| 4472740 | MDA | 2022-05-14 | FC Floresti | FC Balti | 0-3 | result decided by the federation |
+| 8490186 | MDA | 2024-08-09 | CS Petrocub | FC Floresti | 3-0 | result decided by the federation |
+| 9653068 | MKD | 2025-04-19 | FC Voska Sport | Vardar Skopje | 0-3 | result decided by the federation |
+| 9653059 | MKD | 2025-04-28 | AP Brera Strumica | FC Voska Sport | 3-0 | result decided by the federation |
+| 9653049 | MKD | 2025-05-04 | FK Gostivar | Pelister Bitola | 0-3 | result decided by the federation |
+| 9653043 | MKD | 2025-05-07 | FK Sileks | FK Gostivar | 3-0 | result decided by the federation |
+| 9653047 | MKD | 2025-05-07 | Pelister Bitola | FC Voska Sport | 3-0 | result decided by the federation |
+| 9653037 | MKD | 2025-05-11 | FK Gostivar | Shkendija Tetovo | 0-3 | result decided by the federation |
+| 9653042 | MKD | 2025-05-11 | KF Besa Doberdoll | FC Voska Sport | 3-0 | result decided by the federation |
+| 9653031 | MKD | 2025-05-18 | FC Voska Sport | KF Shkupi Skopje | 0-3 | result decided by the federation |
+| 9653034 | MKD | 2025-05-18 | Vardar Skopje | FK Gostivar | 3-0 | result decided by the federation |
+| 10400719 | MKD | 2025-08-17 | KF Shkupi Skopje | FK Sileks | 0-3 | result decided by the federation |
+| 3143860 | MLT | 2021-02-03 | Gudja United | Gzira United | 0-3 | result decided by the federation |
+| 2608055 | MNE | 2020-10-17 | Buducnost Podgorica | FK Zeta Golubovci | 3-0 | result decided by the federation |
+| 12103981 | MNE | 2026-09-19 | FK Arsenal | Sutjeska Niksic | 0-2 | abandoned |
+| 789654 | NED | 2018-11-04 | Feyenoord | VVV | 0-0 | abandoned |
+| 1648706 | NED | 2020-02-09 | AZ | Feyenoord |  | result decided by the federation |
+| 1648707 | NED | 2020-02-09 | FC Emmen | FC Twente |  | result decided by the federation |
+| 6838418 | NED | 2023-10-29 | AZ | NEC | 1-2 | abandoned |
+| 8370371 | NED | 2024-12-21 | Heracles | FC Groningen | 1-1 | abandoned |
+| 10127458 | NED | 2026-02-15 | Sparta Rotterdam | NEC | 0-0 | abandoned |
+| 12026935 | NED | 2026-09-05 | FC Utrecht | Go Ahead Eagles | - | abandoned |
+| 574328 | NIR | 2018-01-02 | Ards FC | Glenavon | 0-2 | abandoned |
+| 5423405 | POL | 2023-05-27 | Piast Gliwice | Lechia Gdansk | 3-0 | result decided by the federation |
+| 2634550 | ROU | 2020-11-01 | CSM Politehnica Iasi | Viitorul Constanta | 0-3 | result decided by the federation |
+| 2372894 | RUS | 2020-06-27 | FC Orenburg | Krasnodar | 0-3 | result decided by the federation |
+| 2372897 | RUS | 2020-07-01 | FC Orenburg | Ural | 0-3 | result decided by the federation |
+| 2372927 | RUS | 2020-07-16 | FK Tambov | PFC Sochi | 3-0 | result decided by the federation |
+| 2372937 | RUS | 2020-07-22 | Krylia Sovetov | PFC Sochi | 3-0 | result decided by the federation |
+| 2705230 | RUS | 2020-09-13 | Rotor Volgograd | Krasnodar | 0-3 | result decided by the federation |
+| 2603989 | RUS | 2020-09-19 | Rostov | Rotor Volgograd | 3-0 | result decided by the federation |
+| 5195322 | RUS | 2023-03-19 | FC Nizhny Novgorod | Torpedo Moscow | 0-3 | result decided by the federation |
+| 791776 | SCO | 2019-02-27 | Kilmarnock | Motherwell | 0-0 | abandoned |
+| 2597469 | SRB | 2020-08-29 | Radnicki Nis | FK Proleter Novi Sad | 3-0 | result decided by the federation |
+| 6978745 | SRB | 2023-10-08 | FK Radnicki 1923 | Crvena Zvezda | 0-3 | result decided by the federation |
+| 322726 | SUI | 2017-07-29 | Lugano | St Gallen | 1-0 | abandoned |
+| 2641943 | SVN | 2020-08-23 | NK Maribor | Aluminij Kidricevo | 3-0 | result decided by the federation |
+| 6816468 | SVN | 2023-08-26 | FC Koper | NK Rogaska | 3-0 | result decided by the federation |
+| 7680776 | SVN | 2024-02-18 | NS Mura | NK Maribor | 3-0 | result decided by the federation |
+| 10459299 | SVN | 2026-05-09 | NK Maribor | Olimpija Ljubljana | - | abandoned |
+| 5258462 | TUR | 2023-02-12 | Adana Demirspor | Hatayspor | 3-0 | result decided by the federation |
+| 5258459 | TUR | 2023-02-13 | Gazisehir Gaziantep FK | Galatasaray | 0-3 | result decided by the federation |
+| 5258465 | TUR | 2023-02-18 | Hatayspor | Konyaspor | 0-3 | result decided by the federation |
+| 5259986 | TUR | 2023-02-18 | Umraniyespor | Gazisehir Gaziantep FK | 3-0 | result decided by the federation |
+| 5258469 | TUR | 2023-02-26 | Gazisehir Gaziantep FK | Trabzonspor | 0-3 | result decided by the federation |
+| 5258472 | TUR | 2023-02-26 | Kayserispor | Hatayspor | 3-0 | result decided by the federation |
+| 5258340 | TUR | 2023-03-25 | Gazisehir Gaziantep FK | Kasimpasa | 0-3 | result decided by the federation |
+| 5258473 | TUR | 2023-03-25 | Hatayspor | Sivasspor | 0-3 | result decided by the federation |
+| 5258343 | TUR | 2023-04-01 | Alanyaspor | Hatayspor | 3-0 | result decided by the federation |
+| 5258478 | TUR | 2023-04-01 | Adana Demirspor | Gazisehir Gaziantep FK | 3-0 | result decided by the federation |
+| 5258481 | TUR | 2023-04-08 | Hatayspor | Fatih Karagumruk | 0-3 | result decided by the federation |
+| 5258494 | TUR | 2023-04-16 | Besiktas | Hatayspor | 3-0 | result decided by the federation |
+| 5420014 | TUR | 2023-05-07 | Hatayspor | Istanbulspor | 0-3 | result decided by the federation |
+| 5424996 | TUR | 2023-05-07 | Gazisehir Gaziantep FK | Fatih Karagumruk | 0-3 | result decided by the federation |
+| 5534730 | TUR | 2023-05-14 | Istanbul Basaksehir | Gazisehir Gaziantep FK | 3-0 | result decided by the federation |
+| 5540565 | TUR | 2023-05-14 | Hatayspor | Umraniyespor | 0-3 | result decided by the federation |
+| 5579167 | TUR | 2023-05-21 | Antalyaspor | Hatayspor | 3-0 | result decided by the federation |
+| 5583065 | TUR | 2023-05-21 | Gazisehir Gaziantep FK | Istanbulspor | 0-3 | result decided by the federation |
+| 5611971 | TUR | 2023-05-28 | Hatayspor | Galatasaray | 0-3 | result decided by the federation |
+| 5611972 | TUR | 2023-05-28 | Fenerbahce | Gazisehir Gaziantep FK | 3-0 | result decided by the federation |
+| 2402806 | UKR | 2020-06-21 | Karpaty Lviv | Olimpik Donetsk |  | result decided by the federation |
+| 2491507 | UKR | 2020-07-01 | Karpaty Lviv | FC Mariupol | 0-3 | result decided by the federation |
+| 2501333 | UKR | 2020-07-04 | FC Mariupol | Karpaty Lviv | 3-0 | result decided by the federation |
+| 2642525 | UKR | 2020-12-13 | Ingulets Petrovo | Shakhtar Donetsk | 0-3 | result decided by the federation |
+| 6876038 | UKR | 2024-02-26 | PFC Oleksandria | Shakhtar Donetsk | 0-3 | result decided by the federation |
+| 11979630 | UKR | 2026-06-04 | Polissya Zhytomyr II | Vorskla Poltava |  | result never confirmed by the source |
+| 12127707 | UKR | 2026-09-12 | FC Kryvbas Kriviy Rih | FC Kharkiv |  | result never confirmed by the source |
+| 351943 | WAL | 2017-09-15 | Bangor City | Connah's Quay | 1-0 | abandoned |
+| 1413463 | WAL | 2019-02-09 | Barry Town | Bala Town | 0-1 | abandoned |
 
 #### Said plainly - known limitations
 
@@ -870,8 +1244,8 @@ Each decision below is written in the build code with its evidence; the build st
 - **Russian Premier League (Russia)**: Betfair and Betsson were not collected for this league.
 - **Lineups** are absent or almost absent from the source for 15 leagues: Albania, Armenia, Azerbaijan, Bosnia & Herzegovina, Georgia, Israel, Kazakhstan, Luxembourg, Latvia, Moldova, North Macedonia, Malta, Montenegro, Northern Ireland, Wales. The odds, the match sheet, the events and the statistics are there; see `Lineups_Pct` in the Coverage file, season by season.
 - **Lineups are partial** (under half of the matches) for 9 more leagues: Belarus (7 %), Estonia (11 %), Faroe Islands (8 %), Hungary (9 %), Ireland (10 %), Iceland (9 %), Lithuania (12 %), Scotland (39 %), Serbia (28 %).
-- **Venue unknown** for 4,146 matches (4.5 %); `Neutral_Venue` is empty on 4,146 matches.
-- **Round** is filled on 87,675 matches (94.6 %): it stays empty where the source's matchday numbers are not reliable (for example the Finnish league, whose numbering is broken in several seasons) and in Play-Offs.
+- **Venue unknown** for 4,157 matches (4.5 %); `Neutral_Venue` is empty on 4,157 matches.
+- **Round** is filled on 87,659 matches (94.6 %): it stays empty where the source's matchday numbers are not reliable (for example the Finnish league, whose numbering is broken in several seasons) and in Play-Offs.
 - **Kickoff times**: for 14 matches the source's scheduled kickoff is more than 3 hours later than the real start read from Bet365's live clock, for example: Ararat Armenia - Shirak, played 2025-11-30 (source kickoff 2025-12-01 10:00 UTC); Botev Plovdiv - Lokomotiv 1929 Sofia, played 2026-07-20 (source kickoff 2026-07-21 18:30 UTC); Panathinaikos - Xanthi, played 2018-05-06 (source kickoff 2018-05-07 16:00 UTC). `Kickoff_UTC` keeps the source's value; the pre-match markets are cut at the real start.
 - **Score field of the source**: on 36 of the 59 penalty shoot-outs the source's own final score adds the shoot-out to the goals. This product never uses it: goals after 90 minutes, after extra time and in the shoot-out are separate columns.
 - **Coverage changes over time** (table *Coverage over time*). First match covered: Unibet 2017-04-15, minute-by-minute statistics 2017-06-12, Pinnacle 2018-09-27, Betsson 2022-07-03, Betfair (Sportsbook) 2023-11-03. Months with a gap: Pinnacle 2023-09 to 2023-11 and 2026-07 to 2026-08; Unibet 2026-07 to 2026-08; Betfair (Sportsbook) 2024-11 to 2025-08 and 2026-07 to 2026-08; Betsson 2026-06 to 2026-08; minute-by-minute statistics 2018-01 to 2019-09 and 2026-06 to 2026-07. Nothing any more for Belarus: Bet365, Unibet, minute-by-minute statistics and events after 2021-11-28; Montenegro: Unibet after 2022-05-20; Russia: Bet365 and Unibet after 2022-03-07, minute-by-minute statistics and events after 2022-02-28.
@@ -1135,6 +1509,49 @@ Each decision below is written in the build code with its evidence; the build st
 
 **Half-time scores.** 1 half-time score was higher than the final score (the source counted a goal it later cancelled): left empty rather than wrong.
 
+**Home / away orientation.** A bookmaker sometimes lists a fixture with the two teams the other way round. Every price series is aligned on the match's home and away teams: 1X2 and Asian handicap, full time and half time, with the handicap line and the live score turned with it (134 match-bookmaker series turned: Pinnacle 58, Unibet 54, Betfair 13, Betsson 8, Bet365 1); the other bookmakers' snapshots likewise (1,939 match-bookmaker sets). 1 match was listed by the source with home and away reversed, while almost all bookmakers show the other team at home; each case was checked against the clubs' usual grounds and the home / away balance of the pair in the season. This match is turned around everywhere (teams, goals, lineups, statistics, events, prices); turning a match leaves its venue as it was:
+
+| Source event | League | Date | Home | Away |
+|---|---|---|---|---|
+| 6054180 | SUDAM | 2023-03-08 | Guabira | Oriente Petrolero |
+
+**32 fixtures are not in the tables** because the source never marked them as finished (21 result decided by the federation; 9 result never confirmed by the source; 1 interrupted; 1 abandoned). They are listed so that a gap in a season is never silent:
+
+| Source event | League | Date | Home | Away | Score shown | Status |
+|---|---|---|---|---|---|---|
+| 2174489 | AFC_CL | 2020-02-10 | Al Hilal Riyadh | Shahr Khodro | 2-0 | result decided by the federation |
+| 2137199 | AFC_CL | 2020-02-17 | Shabab Al Ahli Dubai | Al Hilal Riyadh | 1-2 | result decided by the federation |
+| 2614550 | AFC_CL | 2020-09-14 | Al Hilal Riyadh | Pakhtakor Tashkent | 2-1 | result decided by the federation |
+| 2614551 | AFC_CL | 2020-09-17 | Pakhtakor Tashkent | Al Hilal Riyadh | 0-0 | result decided by the federation |
+| 2614997 | AFC_CL | 2020-09-20 | Shahr Khodro | Al Hilal Riyadh | 0-0 | result decided by the federation |
+| 3411411 | AFC_CL | 2021-04-07 | Al-Wehdat | Al Quwa Al Jawiya | 0-0 | result never confirmed by the source |
+| 7122750 | AFC_CL | 2023-10-02 | Sepahan | Al Ittihad Jeddah | 0-3 | result decided by the federation |
+| 1591487 | CAF_CL | 2019-05-31 | Esperance de Tunis | WAC Casablanca | 1-0 | abandoned |
+| 2996332 | CAF_CL | 2020-12-05 | Stade Malien | Ashanti GB | 2-0 | result decided by the federation |
+| 3003176 | CAF_CL | 2020-12-06 | Asante Kotoko | FC Nouadhibou | 2-0 | result decided by the federation |
+| 3126826 | CAF_CL | 2021-01-05 | El Zamalek | Gazelle FC |  | result decided by the federation |
+| 7151447 | CAF_CL | 2023-08-25 | AS GNN | AS Douanes Ouagadougou |  | result decided by the federation |
+| 7138372 | CAF_CL | 2023-09-01 | AS Douanes Ouagadougou | AS GNN |  | result decided by the federation |
+| 8716860 | CAF_CL | 2024-08-25 | Djoliba AC | Red Star Bangui |  | result decided by the federation |
+| 8929260 | CAF_CL | 2024-11-26 | Young Africans | Al Merrikh |  | result never confirmed by the source |
+| 8929642 | CAF_CL | 2024-12-06 | Al Merrikh | TP Mazembe |  | result never confirmed by the source |
+| 8929286 | CAF_CL | 2024-12-13 | MC Alger | Al Merrikh |  | result never confirmed by the source |
+| 8929287 | CAF_CL | 2025-01-03 | Al Merrikh | MC Alger |  | result never confirmed by the source |
+| 8929264 | CAF_CL | 2025-01-10 | Al Merrikh | Young Africans |  | result never confirmed by the source |
+| 8929643 | CAF_CL | 2025-01-17 | TP Mazembe | Al Merrikh |  | result never confirmed by the source |
+| 3033507 | LIBERTA | 2020-12-18 | Nacional De Football | CA River Plate |  | result never confirmed by the source |
+| 9684180 | LIBERTA | 2025-04-09 | CA River Plate | Barcelona Guayaquil |  | result never confirmed by the source |
+| 11619368 | LIBERTA | 2026-05-08 | Junior | Cerro Porteno | 0-1 | interrupted |
+| 10359509 | SUDAM | 2025-08-21 | CA Independiente | Universidad de Chile | - | result decided by the federation |
+| 4730880 | UEFA_EL | 2022-03-10 | RB Leipzig | Spartak Moscow |  | result decided by the federation |
+| 4730881 | UEFA_EL | 2022-03-17 | Spartak Moscow | RB Leipzig |  | result decided by the federation |
+| 2230123 | UEFA_NL | 2020-11-15 | Romania | Norway | 3-0 | result decided by the federation |
+| 2231204 | UEFA_NL | 2020-11-17 | Switzerland | Ukraine | 3-0 | result decided by the federation |
+| 4459582 | UEFA_NL | 2022-06-02 | Albania | Russia |  | result decided by the federation |
+| 4459534 | UEFA_NL | 2022-06-06 | Israel | Russia |  | result decided by the federation |
+| 4459584 | UEFA_NL | 2022-06-10 | Russia | Iceland |  | result decided by the federation |
+| 4463589 | UEFA_NL | 2022-06-13 | Russia | Albania |  | result decided by the federation |
+
 #### Said plainly - known limitations
 
 - **UEFA European Championship 2020**: Betfair and Betsson were not collected for this tournament.
@@ -1282,7 +1699,7 @@ Formats, interruptions and gaps of the source, edition by edition:
   of these leagues go straight to penalties after 90 minutes, and extra time may also have been played without a goal
   or an event the source dates beyond the 105th minute.
 - **Neutral_Venue** compares the stadium's country with the home team's country code from the source: 1 = neutral
-  (38 matches), 0 = home ground country (29,619), empty = unknown (1,342).
+  (38 matches), 0 = home ground country (29,618), empty = unknown (1,343).
   CF Montreal, Toronto FC and Vancouver Whitecaps (Canadian clubs) were the home team in a US stadium on 38 matches: `Neutral_Venue` = 1 (7 in the MLS is Back tournament, 31 in 2020 and 2021 while the border was closed during Covid-19). The MLS is Back tournament (51 matches, July-August 2020) was played in Orlando: a US club's 'home' match there counts as 0, because the rule compares countries, not grounds. A neutral ground inside the home team's own country (finals played at a neutral ground) counts as 0.
 
 #### Data integrity: what was corrected, and why
@@ -1388,12 +1805,77 @@ Each decision below is written in the build code with its evidence; the build st
 
 **Half-time scores.** 1 half-time score was higher than the final score (the source counted a goal it later cancelled): left empty rather than wrong.
 
+**Home / away orientation.** A bookmaker sometimes lists a fixture with the two teams the other way round. Every price series is aligned on the match's home and away teams: 1X2 and Asian handicap, full time and half time, with the handicap line and the live score turned with it (28 match-bookmaker series turned: Bet365 15, Unibet 7, Pinnacle 4, Betfair 1, Betsson 1); the other bookmakers' snapshots likewise (223 match-bookmaker sets). 15 matches were listed by the source with home and away reversed: 12 because almost all bookmakers show the other team at home (each checked against the clubs' usual grounds and the home / away balance of the pair in the season), 3 because the home / away balance of the pair in the season was broken and the published round-by-round results of the season show the other team at home. These matches are turned around everywhere (teams, goals, lineups, statistics, events, prices); turning a match leaves its venue as it was (wrong venues are corrected or removed below):
+
+| Source event | League | Date | Home | Away | Found by |
+|---|---|---|---|---|---|
+| 4398140 | BOL | 2021-12-04 | Atletico Palmaflor Vinto | Club Aurora | bookmakers |
+| 6970024 | BOL | 2023-08-19 | Real Santa Cruz | Oriente Petrolero | bookmakers |
+| 8733586 | BOL | 2024-11-01 | San Antonio Bulo Bulo | Jorge Wilstermann | bookmakers |
+| 10149831 | BOL | 2025-07-21 | Blooming | Guabira | bookmakers |
+| 5195007 | COL | 2022-07-24 | America de Cali | Internacional FC de Palmira | bookmakers |
+| 632724 | ECU | 2018-03-06 | Guayaquil City | Emelec | season results |
+| 631329 | ECU | 2018-04-17 | Guayaquil City | Barcelona Guayaquil | season results |
+| 885807 | VEN | 2018-09-02 | Carabobo | CD Lara | season results |
+| 1723775 | VEN | 2019-08-31 | Carabobo | Llaneros De Guanare | bookmakers |
+| 2158792 | VEN | 2020-02-08 | Gran Valencia | Yaracuyanos | bookmakers |
+| 2849432 | VEN | 2020-11-23 | Monagas | Zamora | bookmakers |
+| 3905457 | VEN | 2021-08-13 | Monagas | Metropolitanos FC | bookmakers |
+| 7111812 | VEN | 2023-08-28 | Monagas | UCV | bookmakers |
+| 6246779 | VEN | 2023-10-06 | Monagas | Deportivo La Guaira | bookmakers |
+| 8826078 | VEN | 2024-09-22 | Portuguesa | UCV | bookmakers |
+
+**1 venue was removed.** The source listed this match the wrong way round and gave the other club's ground as the venue; the real venue is not proven, so Stadium is left empty rather than wrong:
+
+| Source event | League | Date | Home | Away | Venue in the source |
+|---|---|---|---|---|---|
+| 5195007 | COL | 2022-07-24 | America de Cali | Internacional FC de Palmira | Estadio Doce De Octubre, Tulua |
+
+**34 fixtures are not in the tables** because the source never marked them as finished (25 result decided by the federation; 3 interrupted; 3 result never confirmed by the source; 2 abandoned; 1 removed by the source). They are listed so that a gap in a season is never silent:
+
+| Source event | League | Date | Home | Away | Score shown | Status |
+|---|---|---|---|---|---|---|
+| 9305085 | ARG | 2025-02-04 | Godoy Cruz | CA Talleres de Córdoba | 0-0 | interrupted |
+| 10543158 | ARG | 2025-08-30 | Sarmiento | Rosario Central | - | interrupted |
+| 3490721 | BOL | 2021-05-08 | The Strongest | Royal Pari FC | 3-0 | result decided by the federation |
+| 7437917 | BOL | 2023-11-06 | Nacional Potosi | Atletico Palmaflor |  | result never confirmed by the source |
+| 11902050 | BOL | 2026-06-04 | Real Potosi | Academia de Balompie Boliviano |  | removed by the source |
+| 5726709 | CHI | 2022-10-15 | CD Antofagasta | Palestino | 0-3 | result decided by the federation |
+| 11257960 | CHI | 2026-02-09 | Union La Calera | Cobresal | 0-3 | result decided by the federation |
+| 11257830 | CHI | 2026-08-31 | Coquimbo Unido | Huachipato | - | abandoned |
+| 13143155 | CHI | 2026-09-16 | Coquimbo Unido | Huachipato |  | result never confirmed by the source |
+| 2802994 | COL | 2020-10-06 | Once Caldas | Deportivo Pereira | 0-3 | result decided by the federation |
+| 2920935 | COL | 2020-11-13 | Cucuta Deportivo | America de Cali | 0-3 | result decided by the federation |
+| 4533382 | COL | 2022-02-15 | Union Magdalena | Atletico Bucaramanga | 0-3 | result decided by the federation |
+| 4533486 | COL | 2022-05-08 | Jaguares de Cordoba | Independiente Medellin | 3-0 | result decided by the federation |
+| 5194076 | COL | 2022-09-21 | Internacional FC de Palmira | Deportivo Cali | 2-0 | result decided by the federation |
+| 7504993 | COL | 2023-12-03 | Deportivo Cali | Junior | 0-2 | result decided by the federation |
+| 7504996 | COL | 2023-12-03 | Atletico Nacional Medellin | Independiente Medellin | 0-5 | result decided by the federation |
+| 7658929 | COL | 2024-03-11 | Patriotas FC | Deportivo Pereira | 0-2 | result decided by the federation |
+| 8840272 | COL | 2024-09-27 | Atletico Nacional Medellin | Junior | 0-3 | result decided by the federation |
+| 9397443 | COL | 2025-05-04 | Union Magdalena | Once Caldas | 0-3 | result decided by the federation |
+| 10757598 | COL | 2025-10-21 | Independiente Medellin | Independiente Santa Fe | 1-1 | result decided by the federation |
+| 2633615 | ECU | 2020-09-20 | Guayaquil City | El Nacional |  | result decided by the federation |
+| 2633622 | ECU | 2020-10-02 | Deportivo Cuenca | Olmedo | 0-3 | result decided by the federation |
+| 2960529 | ECU | 2020-11-29 | El Nacional | Guayaquil City | 0-3 | result decided by the federation |
+| 3247984 | ECU | 2021-02-19 | Universidad Catolica del Ecuador | Olmedo | 3-0 | result decided by the federation |
+| 3248072 | ECU | 2021-04-12 | Barcelona Guayaquil | SD Aucas | 3-0 | result decided by the federation |
+| 4647788 | ECU | 2022-02-20 | Guayaquil City | Deportivo Cuenca | 3-0 | result decided by the federation |
+| 3078452 | MEX | 2021-02-21 | Atlas | Club America | 3-0 | result decided by the federation |
+| 4447820 | MEX | 2022-03-05 | Queretaro | Atlas | 0-3 | result decided by the federation |
+| 1002633 | USA | 2018-11-04 | New York City FC | Atlanta United |  | result never confirmed by the source |
+| 6062025 | USA | 2023-05-07 | FC Dallas | St. Louis City SC | 0-0 | interrupted |
+| 6062110 | USA | 2023-07-05 | Colorado Rapids | Portland Timbers | 0-0 | abandoned |
+| 6236161 | VEN | 2023-04-21 | Deportivo Rayo Zuliano | Zamora | 1-1 | result decided by the federation |
+| 8986898 | VEN | 2024-11-12 | Caracas | Deportivo Tachira | 0-4 | result decided by the federation |
+| 12331530 | VEN | 2026-07-31 | Academia Anzoategui FC | Deportivo Tachira | 0-3 | result decided by the federation |
+
 #### Said plainly - known limitations
 
 - **Betfair and Betsson** were not collected for Argentina 2016/17 to 2019/20 (1,422 matches) and USA 2020 MLS is Back (51 matches): `Betfair_Pct` and `Betsson_Pct` are empty in the Coverage file for a season with none of its matches collected.
 - **Lineups** are absent or almost absent from the source for 2 leagues: Bolivia, Venezuela. The odds, the match sheet, the events and the statistics are there; see `Lineups_Pct` in the Coverage file, season by season.
 - **Matches missing from the source** (stages or matches never collected): Bolivia 2024: play-off Royal Pari - Real Oruro: first leg only (2024-12-21); the second leg is missing from the source; Colombia 2017 Apertura: knockout phase incomplete in the source (3 quarter-final first legs and the final's second leg); Colombia 2017 Finalizacion: second legs only for the quarter-finals; their first legs are missing from the source; Colombia 2018 Apertura: knockout phase (quarter-finals, semi-finals, final) missing from the source; Colombia 2018 Finalizacion: knockout phase (quarter-finals, semi-finals, final) missing from the source; Ecuador 2018: final between the stage winners missing from the source; Mexico 2018/19 Apertura: second legs only for the semi-finals; their first legs (2018-12-06) are missing from the source; Venezuela 2016: season final Zamora - Zulia (winners of the Apertura and the Clausura): first leg only (2016-12-04); the second leg in Maracaibo is missing from the source; Venezuela 2017 Clausura: 8 regular-season matches missing from the source; Venezuela 2021: final of 2021-12-11 missing from the source.
-- **Venue unknown** for 1,342 matches (4.3 %); `Neutral_Venue` is empty on 1,342 matches.
+- **Venue unknown** for 1,343 matches (4.3 %); `Neutral_Venue` is empty on 1,343 matches.
 - **Round** is filled on 25,394 matches (81.9 %): it stays empty where the source's matchday numbers are not reliable for that season and stage, and in knockout stages.
 - **Kickoff times**: for 7 matches the source's scheduled kickoff is more than 3 hours later than the real start read from Bet365's live clock, for example: CA Tigre - CA Aldosivi, played 2025-09-20 (source kickoff 2025-09-21 15:00 UTC); Platense - Defensa y Justicia, played 2025-03-03 (source kickoff 2025-03-04 23:00 UTC); Banfield - CA Independiente, played 2025-03-03 (source kickoff 2025-03-04 22:30 UTC). `Kickoff_UTC` keeps the source's value; the pre-match markets are cut at the real start.
 - **Score and clock on in-play quotes** are the bookmaker's own: Pinnacle almost never sends a numeric clock (`Minute` empty) and Betfair often sends a partial score (`Score_Home` / `Score_Away` empty). Nothing is filled in from another bookmaker.
@@ -1491,7 +1973,7 @@ Formats, interruptions and gaps of the source, edition by edition:
 - **Group-stage shoot-outs**: in the 2026 J1 100 Year Vision League group stage a draw after 90 minutes went straight
   to penalties (2 points to the winner, 1 to the loser): 51 shoot-outs, `Extra_Time` = 0.
 - **Neutral_Venue** compares the stadium's country with the home team's country code from the source: 1 = neutral
-  (none in these leagues), 0 = home ground country (16,315), empty = unknown (1,014).
+  (none in these leagues), 0 = home ground country (16,312), empty = unknown (1,017).
   A neutral ground inside the home team's own country (China's 2020 and 2021 hub venues) counts as 0: the rule compares countries, not grounds.
 
 #### Data integrity: what was corrected, and why
@@ -1557,13 +2039,64 @@ Each decision below is written in the build code with its evidence; the build st
 
 **Half-time scores.** 1 half-time score was higher than the final score (the source counted a goal it later cancelled): left empty rather than wrong.
 
+**Home / away orientation.** A bookmaker sometimes lists a fixture with the two teams the other way round. Every price series is aligned on the match's home and away teams: 1X2 and Asian handicap, full time and half time, with the handicap line and the live score turned with it (25 match-bookmaker series turned: Bet365 13, Pinnacle 5, Unibet 4, Betsson 3); the other bookmakers' snapshots likewise (205 match-bookmaker sets). 13 matches were listed by the source with home and away reversed: 6 because almost all bookmakers show the other team at home (each checked against the clubs' usual grounds and the home / away balance of the pair in the season), 7 because the home / away balance of the pair in the season was broken and the published round-by-round results of the season show the other team at home. These matches are turned around everywhere (teams, goals, lineups, statistics, events, prices); turning a match leaves its venue as it was (wrong venues are corrected or removed below):
+
+| Source event | League | Date | Home | Away | Found by |
+|---|---|---|---|---|---|
+| 7537788 | ALG | 2023-12-07 | Paradou AC | MC Alger | bookmakers |
+| 5812170 | CHN | 2022-10-29 | Hebei | Guangzhou City | season results |
+| 6034665 | CHN | 2022-12-23 | Cangzhou Mighty Lions | Shanghai Shenhua | bookmakers |
+| 869754 | KSA | 2018-08-30 | Al Hazm | Al Wehda Mecca | season results |
+| 839631 | KSA | 2018-09-13 | Al Ittifaq Dammam | Al Batin | season results |
+| 839632 | KSA | 2018-09-13 | Al Hazm | Al Taawon Buraidah | season results |
+| 6621807 | MAR | 2023-05-21 | JS Soualem | SC Chabab Mohammedia | bookmakers |
+| 92380 | TUN | 2016-11-26 | Etoile Sportive Sahel | ES Zarzis | season results |
+| 1817049 | TUN | 2019-08-28 | CS Hammam Lif | Club Africain | season results |
+| 1817053 | TUN | 2019-08-29 | US Ben Guerdane | JS Kairouanaise | season results |
+| 2102139 | TUN | 2020-01-05 | AS Soliman | Esperance de Tunis | bookmakers |
+| 4186431 | TUN | 2021-11-21 | ES Zarzis | US Monastir | bookmakers |
+| 4950683 | TUN | 2022-05-04 | US Ben Guerdane | Club Africain | bookmakers |
+
+**3 venues were removed.** The source listed these matches the wrong way round and gave the other club's ground as the venue; the real venue is not proven, so Stadium is left empty rather than wrong:
+
+| Source event | League | Date | Home | Away | Venue in the source |
+|---|---|---|---|---|---|
+| 5812170 | CHN | 2022-10-29 | Hebei | Guangzhou City | Yuexiushan Stadium, Guangzhou |
+| 869754 | KSA | 2018-08-30 | Al Hazm | Al Wehda Mecca | King Abdulaziz Sport City Stadium, Mecca |
+| 4186431 | TUN | 2021-11-21 | ES Zarzis | US Monastir | Stade Mustapha Ben Jannet, Monastir |
+
+**21 fixtures are not in the tables** because the source never marked them as finished (16 result decided by the federation; 4 result never confirmed by the source; 1 interrupted). They are listed so that a gap in a season is never silent:
+
+| Source event | League | Date | Home | Away | Score shown | Status |
+|---|---|---|---|---|---|---|
+| 3540720 | ALG | 2021-05-30 | AS Ain M'lila | JS Kabylie | 0-3 | result decided by the federation |
+| 6034659 | CHN | 2022-12-23 | Henan | ShenZhen | 3-0 | result decided by the federation |
+| 6034661 | CHN | 2022-12-23 | Zhejiang | Tianjin Jinmen Tigers | 3-0 | result decided by the federation |
+| 6060440 | CHN | 2022-12-27 | Cangzhou Mighty Lions | Hebei | 3-0 | result decided by the federation |
+| 6060449 | CHN | 2022-12-27 | Beijing Guoan | Shanghai Port | 0-3 | result decided by the federation |
+| 6060450 | CHN | 2022-12-27 | Tianjin Jinmen Tigers | Dalian Pro | 0-3 | result decided by the federation |
+| 6060456 | CHN | 2022-12-27 | Shandong Taishan | Meizhou Hakka | 3-0 | result decided by the federation |
+| 6060584 | CHN | 2022-12-31 | Shandong Taishan | Beijing Guoan | 3-0 | result decided by the federation |
+| 6060766 | CHN | 2022-12-31 | Wuhan Three Towns | Tianjin Jinmen Tigers | 3-0 | result decided by the federation |
+| 3199638 | JPN | 2021-06-20 | Urawa Red Diamonds | Shonan Bellmare | 0-3 | result decided by the federation |
+| 7744990 | JPN | 2024-08-24 | Urawa Red Diamonds | Kawasaki Frontale | 1-1 | interrupted |
+| 11273912 | KOR | 2026-08-23 | Daejeon Hana Citizen | Gangwon FC |  | result never confirmed by the source |
+| 12312253 | KSA | 2026-09-17 | Neom SC | Al Ittifaq Dammam |  | result never confirmed by the source |
+| 470416 | MAR | 2017-10-06 | Racing de Casablanca | Chabab Atlas Khénifra |  | result never confirmed by the source |
+| 2557174 | MAR | 2020-08-22 | Olympique Khouribga | RSB Berkane |  | result decided by the federation |
+| 6187409 | TUN | 2023-02-02 | Stade Tunisien | Etoile Sportive Sahel | 0-2 | result decided by the federation |
+| 6637739 | TUN | 2023-05-14 | ES Metlaoui | Bizertin | 0-2 | result decided by the federation |
+| 8687242 | TUN | 2024-08-31 | US Ben Guerdane | Club Africain | 0-2 | result decided by the federation |
+| 10887654 | TUN | 2025-11-02 | ES Zarzis | Avenir de La Marsa | 0-2 | result decided by the federation |
+| 11415306 | TUN | 2026-02-13 | Stade Tunisien | Olympique de Beja | 0-2 | result decided by the federation |
+| 12332680 | TUN | 2026-08-22 | US Ben Guerdane | CS Hammam Lif |  | result never confirmed by the source |
+
 #### Said plainly - known limitations
 
 - **Lineups** are absent or almost absent from the source for 3 leagues: Algeria, Morocco, Tunisia. The odds, the match sheet, the events and the statistics are there; see `Lineups_Pct` in the Coverage file, season by season.
 - **Lineups are partial** (under half of the matches) for 1 more league: Saudi Arabia (48 %).
 - **Matches without match data**: a few matches carry the source status 'decided by the federation' instead of 'ended' and have no odds, events or statistics in the source; they are not in the files (Algeria 2020/21, China 2022, Japan 2021, Tunisia 2022/23, Tunisia 2024/25 and Tunisia 2025/26: see *Season notes*).
-- **Home and away swapped by the source**: in a home-and-away round robin each pairing is played once at each ground, but the source lists the same home team twice (and never the reverse) for 13 pairings: on one of the two matches it has swapped home and away. The files keep the source's orientation (odds, events and statistics follow it); the stadium shows which one on 6 of them (the listed home team plays at the visitors' usual ground): 7537788 MC Alger - Paradou AC, Algeria 2023/24 (2023-12-07, at Stade Hydra); 6034662 Guangzhou City - Hebei, China 2022 (2022-12-23, at Langfang Stadium); 839631 Al Batin - Al Ittifaq Dammam, Saudi Arabia 2018/19 (2018-09-13, at Prince Mohamed bin Fahd Stadium); 6621807 SC Chabab Mohammedia - JS Soualem, Morocco 2022/23 (2023-05-21, at Had Soualem Municipal Stadium); 1817053 JS Kairouanaise - US Ben Guerdane, Tunisia 2019/20 (2019-08-29, at Stade de Ben Guerdane); 1817049 Club Africain - CS Hammam Lif, Tunisia 2019/20 (2019-08-28, at Stade Bou Kornine); the other pairings: Shanghai Shenhua - Cangzhou Mighty Lions, China 2022 (5757935 and 6034665); Al Taawon Buraidah - Al Hazm, Saudi Arabia 2018/19 (839632 and 839683); Al Wehda Mecca - Al Hazm, Saudi Arabia 2018/19 (869754 and 1400148); ES Zarzis - Etoile Sportive Sahel, Tunisia 2016/17 (212149 and 92380); Esperance de Tunis - AS Soliman, Tunisia 2019/20 (2102139 and 2579380); Club Africain - US Ben Guerdane, Tunisia 2021/22 (4950683 and 5041699); US Monastir - ES Zarzis, Tunisia 2021/22 (4186431 and 4856626).
-- **Venue unknown** for 1,014 matches (5.9 %); `Neutral_Venue` is empty on 1,014 matches.
+- **Venue unknown** for 1,017 matches (5.9 %); `Neutral_Venue` is empty on 1,017 matches.
 - **Round** is filled on 17,088 matches (98.6 %): it stays empty where the source's matchday numbers are not reliable for that season and stage, and in knockout stages.
 - **Kickoff times**: for 4 matches the source's scheduled kickoff is more than 3 hours later than the real start read from Bet365's live clock, for example: Qingdao West Coast - Wuhan Three Towns, played 2025-03-02 (source kickoff 2025-03-03 06:00 UTC); FAR Rabat - JS Soualem, played 2025-04-23 (source kickoff 2025-04-24 05:45 UTC); Bizertin - Olympique de Beja, played 2026-09-05 (source kickoff 2026-09-05 18:42 UTC). `Kickoff_UTC` keeps the source's value; the pre-match markets are cut at the real start.
 - **Kickoff times earlier than the real start**: for 5 matches the source's scheduled kickoff is more than 3 hours before the real start read from Bet365's live clock. `Kickoff_UTC` keeps the source's value and the markets close at it: the few quotes recorded between that time and the real start count as In-play.
@@ -1582,7 +2115,7 @@ Each decision below is written in the build code with its evidence; the build st
 ## Said plainly - for the whole product
 
 - Coverage is not uniform: by bookmaker, by competition and over time (tables above and `Ultimate_Coverage.csv`).
-- **Minute-by-minute statistics carry no recording time before 2021-05-10**: `Timestamp_UTC` and `Epoch` are empty on the 38,955 matches played before (14,263,539 rows, 28.8 %); `Minute` and `Value` are always there.
+- **Minute-by-minute statistics carry no recording time before 2021-05-10**: `Timestamp_UTC` and `Epoch` are empty on the 38,948 matches played before (14,262,144 rows, 28.8 %); `Minute` and `Value` are always there.
 - The limitations of each pack are listed in its chapter.
 - Odds are UTC and come from one data provider. No cross-provider reconciliation is claimed.
 
