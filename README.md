@@ -22,7 +22,7 @@ market with the exact time each was recorded, and 10,835,875 dated snapshots fro
 | `sample/` | The free 20-match sample: same tables, same columns as the full product |
 | `Ultimate_Verify_Before_You_Buy.ipynb` | *Verify before you buy*: the key figures of the listing recomputed on the **full** product, outputs included |
 
-Also on [Hugging Face](https://huggingface.co/datasets/oliviersportsdata/World-Football-Timestamped-Odds-Pinnacle-Match-Stats), with a table viewer, and on [Kaggle](https://www.kaggle.com/datasets/oliviersportsdata/world-football-odds-with-pinnacle-sample).
+Also on [Hugging Face](https://huggingface.co/datasets/oliviersportsdata/World-Football-Timestamped-Odds-Pinnacle-Match-Stats), with a table viewer, and on [Kaggle](https://www.kaggle.com/datasets/oliviersportsdata/world-football-odds-incl-pinnacle-sample).
 
 ---
 
@@ -227,4 +227,3 @@ A question before buying: contact@oliviersportsdata.com
 
 *Olivier Sports Data — From Chicken Area 🐔*
 Hand-built historical sports market data.
-[README.md](https://github.com/user-attachments/files/33925999/README.md)
