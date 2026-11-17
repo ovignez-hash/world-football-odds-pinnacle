@@ -25,7 +25,7 @@ This sample holds the full product's tables limited to 20 matches of 17 of the 9
 | 10891062 | KSA | 2025/26 | Regular Season | 2026-05-12 | Al-Nassr Riyadh - Al Hilal Riyadh | 1-1 |
 | 11815078 | MAR | 2025/26 | Regular Season | 2026-05-09 | Raja Casablanca - WAC Casablanca | 0-1 |
 
-Full product (all 197,615 matches): **[→ Get the full dataset on Gumroad](https://sportsdataolivier.gumroad.com/l/ylkgqx?utm_source=sample_readme&utm_medium=readme&utm_campaign=all_in_one_premium&utm_content=sample_readme)**
+Full product (all 197,615 matches): **[→ Get the full dataset on Gumroad](https://sportsdataolivier.gumroad.com/l/ylkgqx?utm_source=github&utm_medium=sample_readme&utm_campaign=all_in_one_premium&utm_content=readme)**
 
 Questions: contact@oliviersportsdata.com
 
