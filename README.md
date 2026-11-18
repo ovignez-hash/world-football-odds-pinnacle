@@ -30,7 +30,7 @@ Also on [Hugging Face](https://huggingface.co/datasets/oliviersportsdata/World-F
 
 | Pack (also sold on its own) | Competitions | Matches | Timestamped quotes | Period |
 |---|---:|---:|---:|---|
-| [Big 6 Europe Premium](https://sportsdataolivier.gumroad.com/l/uooqdc?utm_source=github&utm_medium=repo&utm_campaign=all_in_one_premium&utm_content=pack_table) — England, Spain, Italy, Germany, France, Portugal, 2 divisions each | 12 | 45,554 | 87,379,474 | 2016-08-28 to 2026-09-28 |
+| [Big 6 Europe Premium](https://sportsdataolivier.gumroad.com/l/uooqdc?utm_source=github&utm_medium=repo&utm_campaign=all_in_one_premium&utm_content=pack_table) (also on [Whop](https://whop.com/oliviersportsdata/timestamped-football-odds-pinnacle/?utm_source=github&utm_medium=repo&utm_campaign=all_in_one_premium&utm_content=whop_pack_table)) — England, Spain, Italy, Germany, France, Portugal, 2 divisions each | 12 | 45,554 | 87,379,474 | 2016-08-28 to 2026-09-28 |
 | [Other European Leagues Premium](https://sportsdataolivier.gumroad.com/l/aplpqd?utm_source=github&utm_medium=repo&utm_campaign=all_in_one_premium&utm_content=pack_table) — 44 top flights of Europe | 44 | 92,615 | 132,116,120 | 2016-08-28 to 2026-09-29 |
 | [International Football Premium](https://sportsdataolivier.gumroad.com/l/hethzg?utm_source=github&utm_medium=repo&utm_campaign=all_in_one_premium&utm_content=pack_table) — Champions League to World Cup, 18 competitions | 18 | 11,118 | 28,943,376 | 2016-08-31 to 2026-09-29 |
 | [Futbol, Futebol & Soccer Premium](https://sportsdataolivier.gumroad.com/l/diswpw?utm_source=github&utm_medium=repo&utm_campaign=all_in_one_premium&utm_content=pack_table) — 9 top flights of the Americas | 9 | 30,999 | 73,680,541 | 2016-08-28 to 2026-09-30 |
