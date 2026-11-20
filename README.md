@@ -13,6 +13,10 @@ market with the exact time each was recorded, and 10,835,875 dated snapshots fro
 
 ⚽ **[→ Get the full dataset on Gumroad](https://sportsdataolivier.gumroad.com/l/ylkgqx?utm_source=github&utm_medium=repo&utm_campaign=all_in_one_premium&utm_content=readme_top)** — 197,615 matches, 90 competitions, 898 competition-seasons, 2016–2026.
 
+## Custom extracts: your competitions, your bookmakers
+
+The full product shows the full range of what I hold. Its 5 bookmakers are my own deliberate selection, made to keep the file readable: every bettor has their own reference books, often the local operators of their country. Other international and local bookmakers are available for many competitions, and you can keep only the countries, competitions, seasons and markets you need. Send your list (competitions, seasons, bookmakers, markets) to [contact@oliviersportsdata.com](mailto:contact@oliviersportsdata.com): I confirm the coverage first, then build the extract from the same data, with the same checks.
+
 ---
 
 ## In this repository
